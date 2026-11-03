@@ -445,7 +445,7 @@ fn main() {
     if let Some(x) = opt {
         read(x);
     }
-}`}]}],T9="2dfacc7f9f092d37",R9="2.0.0+nightly-2026-05-01+8a1648432b7cce39",X9={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+}`}]}],T9="cdebd5d4dee7ce5a",R9="2.0.0+nightly-2026-05-01+6697655deb561f5a",X9={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -1079,8 +1079,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},a08c8059f2a63aac1c7c03269057a9bebe0ec2edd6313ba02d1ac89e961da48c:{code_panel:`<svg width="400px" height="280px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a08c8059f2a63aac1c7c03269057a9bebe0ec2edd6313ba02d1ac89e961da48c:{code_panel:`<svg width="400px" height="280px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -1581,8 +1580,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"077c14e78ebd1c3050313e95d0b6ef97ddebe88eb735566df38308d4b7799fd9":{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"077c14e78ebd1c3050313e95d0b6ef97ddebe88eb735566df38308d4b7799fd9":{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -2105,8 +2103,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},e806984c3ad112f9a778efdbc3f58002033533afb22532c8843ef70f271c0b72:{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},e806984c3ad112f9a778efdbc3f58002033533afb22532c8843ef70f271c0b72:{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -2637,8 +2634,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},e3e26e27d962e3769c6e463684027412f6082c2eb5db2ef99287c8f32de6ec59:{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},e3e26e27d962e3769c6e463684027412f6082c2eb5db2ef99287c8f32de6ec59:{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -3171,8 +3167,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},dc3e8707f4e63c989023311bf9f60d4a47b9a643683191ec1740e6d97b55bcbf:{code_panel:`<svg width="490px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},dc3e8707f4e63c989023311bf9f60d4a47b9a643683191ec1740e6d97b55bcbf:{code_panel:`<svg width="490px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -3706,8 +3701,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"76b4457e74637f2ef3b71f16bc5e0e5d736bd7f0edff1ccbc5feab10583c93eb":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"76b4457e74637f2ef3b71f16bc5e0e5d736bd7f0edff1ccbc5feab10583c93eb":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -4242,8 +4236,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},b937807312d4dfcc8029784a2c95502f7421ea8fdbfa19179878abec0100a88d:{code_panel:`<svg width="427px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},b937807312d4dfcc8029784a2c95502f7421ea8fdbfa19179878abec0100a88d:{code_panel:`<svg width="427px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -4772,8 +4765,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},f83d8e05915d057f1855e7fd178c895df79a93b8b51191ce0cfb8197a47e1852:{code_panel:`<svg width="589px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},f83d8e05915d057f1855e7fd178c895df79a93b8b51191ce0cfb8197a47e1852:{code_panel:`<svg width="589px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -5324,8 +5316,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"899b06399fccb35709c9813bef196c99234a18948fa0564df7c136caa25f3566":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"899b06399fccb35709c9813bef196c99234a18948fa0564df7c136caa25f3566":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -5863,8 +5854,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"87ba03cd139111012458f9fecacb911b542b7844a1377c1f8b33efab0e22d8bf":{code_panel:`<svg width="490px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"87ba03cd139111012458f9fecacb911b542b7844a1377c1f8b33efab0e22d8bf":{code_panel:`<svg width="490px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -6429,8 +6419,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"13bc0977fd8a04719e82ab483a4b1603e063340757e2712ecb9442a86026ef8f":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"13bc0977fd8a04719e82ab483a4b1603e063340757e2712ecb9442a86026ef8f":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -7066,8 +7055,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},d0d507f8053bb8e722e03833e1c1820d28459613140634d18bed70e55f4d6933:{code_panel:`<svg width="535px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},d0d507f8053bb8e722e03833e1c1820d28459613140634d18bed70e55f4d6933:{code_panel:`<svg width="535px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -7637,8 +7625,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"1ae159b182f77bd0c1e32c3d10fc7c41a85224a67a12c30294f529c7b61c8aee":{code_panel:`<svg width="841px" height="550px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"1ae159b182f77bd0c1e32c3d10fc7c41a85224a67a12c30294f529c7b61c8aee":{code_panel:`<svg width="841px" height="550px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -8263,8 +8250,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},cd4ee8364af3ce1bc9a6bdb6c2becb4f579c581f773216aefa090462b9c05681:{code_panel:`<svg width="553px" height="820px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},cd4ee8364af3ce1bc9a6bdb6c2becb4f579c581f773216aefa090462b9c05681:{code_panel:`<svg width="553px" height="820px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -8871,8 +8857,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"7ea64b8b7d83041826dff18ca7f2b29e137059e574bce6f18dc1ce3f2d75bde0":{code_panel:`<svg width="616px" height="940px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"7ea64b8b7d83041826dff18ca7f2b29e137059e574bce6f18dc1ce3f2d75bde0":{code_panel:`<svg width="616px" height="940px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -9508,8 +9493,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},a0f18aea44e8b9d671dee679464e095edce847557ecbe525a8ff6053e339ce5a:{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a0f18aea44e8b9d671dee679464e095edce847557ecbe525a8ff6053e339ce5a:{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -10102,8 +10086,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},dbab1a8d2947d291da1d7c859a57247e2dc981c4024e778c69ffd0f78a47bc7d:{code_panel:`<svg width="643px" height="670px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},dbab1a8d2947d291da1d7c859a57247e2dc981c4024e778c69ffd0f78a47bc7d:{code_panel:`<svg width="643px" height="670px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -10736,8 +10719,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"35c469bd1b5efa059e7c20ab90c1968840fc52b9338e39268c28c6473033d439":{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"35c469bd1b5efa059e7c20ab90c1968840fc52b9338e39268c28c6473033d439":{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -11264,8 +11246,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"90cf60170818febcde39e99890ef27007c05ddd74826129711ef11471b5b0fbe":{code_panel:`<svg width="436px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"90cf60170818febcde39e99890ef27007c05ddd74826129711ef11471b5b0fbe":{code_panel:`<svg width="436px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -11824,8 +11805,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"559a206557e0d4a1b2c7522ded865aaa6ca0ae729306a8f39b6b474c0e274d8d":{code_panel:`<svg width="400px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"559a206557e0d4a1b2c7522ded865aaa6ca0ae729306a8f39b6b474c0e274d8d":{code_panel:`<svg width="400px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -12377,8 +12357,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},c7a883286e02dae2f6f3c13b84897cbec9ec4785848281576ccb534fef1fad9b:{code_panel:`<svg width="400px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},c7a883286e02dae2f6f3c13b84897cbec9ec4785848281576ccb534fef1fad9b:{code_panel:`<svg width="400px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -12911,8 +12890,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"50ee980894df53568300ff228a8d2ad3e11d64c8c48eaefbb07daecfe7be6b49":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"50ee980894df53568300ff228a8d2ad3e11d64c8c48eaefbb07daecfe7be6b49":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -13490,8 +13468,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"2eae22dbfa99766d96a8e6777339baec925ab3bba28fdcef0e3edeaa5998c195":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"2eae22dbfa99766d96a8e6777339baec925ab3bba28fdcef0e3edeaa5998c195":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -14055,8 +14032,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"5b107b9c6be3ed8478a7545831046c2af2494240e6de7e2bcdc36d569c13471f":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"5b107b9c6be3ed8478a7545831046c2af2494240e6de7e2bcdc36d569c13471f":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -14782,8 +14758,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"6e752973596166e8ebae7a7e83343f36b08af1264f94c5883a97ad2637f6a67e":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"6e752973596166e8ebae7a7e83343f36b08af1264f94c5883a97ad2637f6a67e":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -15317,8 +15292,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},a2a038fcc949867ceee5fd7ce4fbd1a32bd6be252af8c1d6511083e762902956:{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a2a038fcc949867ceee5fd7ce4fbd1a32bd6be252af8c1d6511083e762902956:{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -15912,8 +15886,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"6b6a07c59d5625de0568d4ead92bd8f09ede94d60fc422de491faf59e158efb9":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"6b6a07c59d5625de0568d4ead92bd8f09ede94d60fc422de491faf59e158efb9":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -16515,8 +16488,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},e36875efa6186841c9e6d8af38044d8c0b4318f80c7c457ca75c807b6608a1e7:{code_panel:`<svg width="400px" height="550px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},e36875efa6186841c9e6d8af38044d8c0b4318f80c7c457ca75c807b6608a1e7:{code_panel:`<svg width="400px" height="550px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -17111,8 +17083,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},dada44da1d917dd367abdf2f9ae62797187ddb50b14b277451357a5bae5e131b:{code_panel:`<svg width="400px" height="610px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},dada44da1d917dd367abdf2f9ae62797187ddb50b14b277451357a5bae5e131b:{code_panel:`<svg width="400px" height="610px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -17747,8 +17718,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},b6f15dc10b22d85847b090960af217904e68e324895fd996b9da4f1023491247:{code_panel:`<svg width="400px" height="760px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},b6f15dc10b22d85847b090960af217904e68e324895fd996b9da4f1023491247:{code_panel:`<svg width="400px" height="760px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -18454,8 +18424,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"8e83121bb8e81686335bfc7d5a0a4694c07ec8298832861058f8a3a98f57f2b1":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"8e83121bb8e81686335bfc7d5a0a4694c07ec8298832861058f8a3a98f57f2b1":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -19075,8 +19044,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"3a75fe088a4f213698023b12332915d14a1f1e3f6b2cd4dfb21930f560971735":{code_panel:`<svg width="589px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"3a75fe088a4f213698023b12332915d14a1f1e3f6b2cd4dfb21930f560971735":{code_panel:`<svg width="589px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -19646,8 +19614,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},c1b6ba4ba75642dddbebfdefddf127ad0414be2495db50e9f587d05db9727173:{code_panel:`<svg width="589px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},c1b6ba4ba75642dddbebfdefddf127ad0414be2495db50e9f587d05db9727173:{code_panel:`<svg width="589px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -20186,8 +20153,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"2f806369e03860442b6ee20623960faa7cf39b7580d537fa5dc7441a1b1e4fa2":{code_panel:`<svg width="400px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"2f806369e03860442b6ee20623960faa7cf39b7580d537fa5dc7441a1b1e4fa2":{code_panel:`<svg width="400px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -20691,8 +20657,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"8be6d8a5c27fa41ed192562fbbd563eda5c3358e40e0170561974acae67f92e9":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"8be6d8a5c27fa41ed192562fbbd563eda5c3358e40e0170561974acae67f92e9":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -21210,8 +21175,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},a87ad15c0738dba45a3dc70b715c8ccc8bda12b0623b1eeb3fa4357e3f0eaf14:{code_panel:`<svg width="607px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a87ad15c0738dba45a3dc70b715c8ccc8bda12b0623b1eeb3fa4357e3f0eaf14:{code_panel:`<svg width="607px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -21793,8 +21757,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},fe40153a89e29a8cd7429bf7468f8ab84387cabd14c3bcd64153d0cb7ef2a96d:{code_panel:`<svg width="400px" height="520px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},fe40153a89e29a8cd7429bf7468f8ab84387cabd14c3bcd64153d0cb7ef2a96d:{code_panel:`<svg width="400px" height="520px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -22315,8 +22278,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},e13bb66e204fbb38ba287f27e6c6b27aeb718ee6a788244bbc7aa0e90416fa3f:{code_panel:`<svg width="400px" height="520px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},e13bb66e204fbb38ba287f27e6c6b27aeb718ee6a788244bbc7aa0e90416fa3f:{code_panel:`<svg width="400px" height="520px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -22841,8 +22803,7 @@ fn main() {
 	</g>
     
 
-</svg>
-`},"93b3dee2c52b9d2bcda52022fab7d47478189578ae6492401cc450cb750db47d":{code_panel:`<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"93b3dee2c52b9d2bcda52022fab7d47478189578ae6492401cc450cb750db47d":{code_panel:`<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -23382,9 +23343,8 @@ fn main() {
 	</g>
     
 
-</svg>
-`}},E9={version:T9,plugin:R9,entries:X9},W9=Object.assign({"./prerendered.json":E9}),bc=W9["./prerendered.json"]??{version:"no-prerender",entries:{}},lg="rustviz.svgcache.",Sh="rustviz.svgcache.version",pf="rustviz.svgcache.index",N9=50,$y=15e5;function L9(e){return e!==null&&e.startsWith(lg)&&e!==Sh&&e!==pf}function Gw(){const e=[];for(let t=0;t<localStorage.length;t++){const n=localStorage.key(t);L9(n)&&e.push(n)}return e}function I9(){try{if(localStorage.getItem(Sh)===bc.version)return;for(const t of Gw())localStorage.removeItem(t);localStorage.removeItem(pf),localStorage.setItem(Sh,bc.version)}catch{}}function ig(){var s;const e=new Set(Gw().map(a=>a.slice(lg.length)));let t=[];try{const a=JSON.parse(localStorage.getItem(pf)??"[]");Array.isArray(a)&&(t=a.filter(r=>Array.isArray(r)&&typeof r[0]=="string"&&typeof r[1]=="number"))}catch{}const n=new Set;t=t.filter(([a])=>e.has(a)&&!n.has(a)&&n.add(a));const o=[];for(const a of e)n.has(a)||o.push([a,((s=localStorage.getItem(Js(a)))==null?void 0:s.length)??0]);return[...o,...t]}function Sc(e){try{localStorage.setItem(pf,JSON.stringify(e))}catch{}}function B9(){try{const e=ig(),t=e.shift();return t?(localStorage.removeItem(Js(t[0])),Sc(e),!0):!1}catch{return!1}}function Zw(e,t){for(;;)try{return localStorage.setItem(e,t),!0}catch{if(!B9())return!1}}I9();async function Hw(e){const t=new TextEncoder().encode(e),n=await crypto.subtle.digest("SHA-256",t);return Array.from(new Uint8Array(n)).map(o=>o.toString(16).padStart(2,"0")).join("")}function Js(e){return lg+e}function Y9(e){const t=ig(),n=t.findIndex(([o])=>o===e);n<0||n===t.length-1||(t.push(...t.splice(n,1)),Sc(t))}async function F9(e){const t=await Hw(e),n=bc.entries[t];if(n)return n;try{const o=localStorage.getItem(Js(t));if(!o)return null;const s=JSON.parse(o);if(s&&typeof s.code_panel=="string"&&typeof s.timeline_panel=="string")return Y9(t),s}catch{}return null}async function G9(e,t){const n=await Hw(e);if(bc.entries[n])return;const o=JSON.stringify(t);if(!(o.length>$y))try{const s=ig().filter(([r])=>r!==n);let a=s.reduce((r,[,l])=>r+l,o.length);for(;s.length>0&&(s.length>=N9||a>$y);){const[r,l]=s.shift();localStorage.removeItem(Js(r)),a-=l}for(;;)try{localStorage.setItem(Js(n),o);break}catch{const r=s.shift();if(!r){Sc(s);return}localStorage.removeItem(Js(r[0]))}s.push([n,o.length]),Sc(s)}catch{}}function Z9(e){return e.replace(/[ \t]+$/gm,"")}const Kw="rustviz.playground.userExamples",Jw="rustviz.playground.selected",kh={kind:"preloaded",chapter:0,index:0},_y=`fn main() {
+</svg>`}},E9={version:T9,plugin:R9,entries:X9},W9=Object.assign({"./prerendered.json":E9}),bc=W9["./prerendered.json"]??{version:"no-prerender",entries:{}},lg="rustviz.svgcache.",Sh="rustviz.svgcache.version",pf="rustviz.svgcache.index",N9=50,$y=15e5;function L9(e){return e!==null&&e.startsWith(lg)&&e!==Sh&&e!==pf}function Gw(){const e=[];for(let t=0;t<localStorage.length;t++){const n=localStorage.key(t);L9(n)&&e.push(n)}return e}function I9(){try{if(localStorage.getItem(Sh)===bc.version)return;for(const t of Gw())localStorage.removeItem(t);localStorage.removeItem(pf),localStorage.setItem(Sh,bc.version)}catch{}}function ig(){var s;const e=new Set(Gw().map(a=>a.slice(lg.length)));let t=[];try{const a=JSON.parse(localStorage.getItem(pf)??"[]");Array.isArray(a)&&(t=a.filter(r=>Array.isArray(r)&&typeof r[0]=="string"&&typeof r[1]=="number"))}catch{}const n=new Set;t=t.filter(([a])=>e.has(a)&&!n.has(a)&&n.add(a));const o=[];for(const a of e)n.has(a)||o.push([a,((s=localStorage.getItem(Js(a)))==null?void 0:s.length)??0]);return[...o,...t]}function Sc(e){try{localStorage.setItem(pf,JSON.stringify(e))}catch{}}function B9(){try{const e=ig(),t=e.shift();return t?(localStorage.removeItem(Js(t[0])),Sc(e),!0):!1}catch{return!1}}function Zw(e,t){for(;;)try{return localStorage.setItem(e,t),!0}catch{if(!B9())return!1}}I9();async function Hw(e){const t=new TextEncoder().encode(e),n=await crypto.subtle.digest("SHA-256",t);return Array.from(new Uint8Array(n)).map(o=>o.toString(16).padStart(2,"0")).join("")}function Js(e){return lg+e}function Y9(e){const t=ig(),n=t.findIndex(([o])=>o===e);n<0||n===t.length-1||(t.push(...t.splice(n,1)),Sc(t))}async function F9(e){const t=await Hw(e),n=bc.entries[t];if(n)return n;try{const o=localStorage.getItem(Js(t));if(!o)return null;const s=JSON.parse(o);if(s&&typeof s.code_panel=="string"&&typeof s.timeline_panel=="string")return Y9(t),s}catch{}return null}async function G9(e,t){const n=await Hw(e);if(bc.entries[n])return;const o=JSON.stringify(t);if(!(o.length>$y))try{const s=ig().filter(([r])=>r!==n);let a=s.reduce((r,[,l])=>r+l,o.length);for(;s.length>0&&(s.length>=N9||a>$y);){const[r,l]=s.shift();localStorage.removeItem(Js(r)),a-=l}for(;;)try{localStorage.setItem(Js(n),o);break}catch{const r=s.shift();if(!r){Sc(s);return}localStorage.removeItem(Js(r[0]))}s.push([n,o.length]),Sc(s)}catch{}}function Z9(e){return e.replace(/[ \t]+$/gm,"")}const Kw="rustviz.playground.userExamples",Jw="rustviz.playground.selected",kh={kind:"preloaded",chapter:0,index:0},_y=`fn main() {
 
 }
 `;function Ty(){try{const e=localStorage.getItem(Kw);if(!e)return[];const t=JSON.parse(e);return Array.isArray(t)?t.filter(n=>typeof(n==null?void 0:n.id)=="string"&&typeof(n==null?void 0:n.name)=="string"&&typeof(n==null?void 0:n.code)=="string"):[]}catch{return[]}}function H9(e){return Zw(Kw,JSON.stringify(e))}function K9(e){try{const t=localStorage.getItem(Jw);if(!t)return kh;const n=JSON.parse(t);if((n==null?void 0:n.kind)==="preloaded"&&typeof n.chapter=="number"&&typeof n.index=="number"){const o=ga[n.chapter];if(o&&o.examples[n.index])return n}if((n==null?void 0:n.kind)==="user"&&typeof n.id=="string"&&e.some(o=>o.id===n.id))return n}catch{}return kh}function J9(e){Zw(Jw,JSON.stringify(e))}function Cu(e,t){if(e.kind==="user"){const n=t.find(o=>o.id===e.id);return n?n.code:ga[0].examples[0].code}return ga[e.chapter].examples[e.index].code}function Pu(){return typeof crypto<"u"&&typeof crypto.randomUUID=="function"?crypto.randomUUID():Math.random().toString(36).slice(2,10)+Date.now().toString(36)}function tP(e){let t=0;for(const n of e){const o=/^New example (\d+)$/.exec(n.name);if(o){const s=parseInt(o[1],10);s>t&&(t=s)}}return`New example ${t+1}`}function eP(e,t){const n=new Set(t.map(s=>s.name)),o=`${e} (copy)`;if(!n.has(o))return o;for(let s=2;;s++){const a=`${e} (copy ${s})`;if(!n.has(a))return a}}function nP(e){return(e.replace(/[<>:"/\\|?*\x00-\x1f]+/g,"").replace(/\s+/g," ").replace(/^[\s.]+|[\s.]+$/g,"")||"example")+".rs"}function oP(e,t){const n=e.trim()||"Imported example",o=new Set(t.map(s=>s.name));if(!o.has(n))return n;for(let s=2;;s++){const a=`${n} (${s})`;if(!o.has(a))return a}}function qu(e){return e.kind==="user"?`user:${e.id}`:`preloaded:${e.chapter}:${e.index}`}function sP(e){if(e.startsWith("user:"))return{kind:"user",id:e.slice(5)};if(e.startsWith("preloaded:")){const[t,n]=e.slice(10).split(":").map(Number);if(!Number.isNaN(t)&&!Number.isNaN(n))return{kind:"preloaded",chapter:t,index:n}}return null}const aP="https://rustviz-api-816769776225.us-central1.run.app",rP=768,lP=typeof window<"u"&&typeof window.matchMedia=="function"&&window.matchMedia(`(max-width: ${rP}px)`).matches;class iP{constructor(t,n,o){df(this,"view");df(this,"programmatic",!1);const s=B.updateListener.of(r=>{r.docChanged&&(this.programmatic||o(r.state.doc.toString()))}),a=it.create({doc:n,extensions:[...q7,s]});this.view=new B({state:a,parent:t})}getCurrentCode(){return this.view.state.doc.toString()}setCurrentCode(t){if(t!==this.view.state.doc.toString()){this.programmatic=!0;try{this.view.dispatch({changes:{from:0,to:this.view.state.doc.length,insert:t}})}finally{this.programmatic=!1}}}destroy(){this.view.destroy()}}const cP=()=>{const e=z.useRef(null);return z.useEffect(()=>{const t=n=>{var o;(o=e.current)!=null&&o.open&&!e.current.contains(n.target)&&(e.current.open=!1)};return document.addEventListener("mousedown",t),()=>document.removeEventListener("mousedown",t)},[]),M.jsxs("header",{className:"titlebar",children:[M.jsxs("div",{className:"titlebar-left",children:[M.jsxs("h1",{className:"titlebar-title",children:[M.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","Playground"]}),M.jsx("a",{className:"titlebar-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",title:"Open the RustViz tutorial in a new tab",children:"New to Rust? Read our visual tutorial →"})]}),M.jsxs("div",{className:"titlebar-meta",children:[M.jsxs("code",{className:"titlebar-version",children:["rustc ","nightly-2026-05-01"]}),M.jsxs("code",{className:"titlebar-version",children:["rustviz-plugin ","2.0.0"]}),M.jsxs("details",{ref:e,className:"titlebar-overflow",children:[M.jsx("summary",{className:"titlebar-overflow-trigger","aria-label":"More",title:"More",children:"⋯"}),M.jsxs("div",{className:"titlebar-overflow-popover",role:"menu",children:[M.jsx("a",{className:"titlebar-overflow-item titlebar-overflow-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",role:"menuitem",children:"Read our visual tutorial →"}),M.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustc ","nightly-2026-05-01"]}),M.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustviz-plugin ","2.0.0"]})]})]}),M.jsx("a",{className:"titlebar-stars",href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",title:"Star us on GitHub",children:M.jsx("img",{src:"https://img.shields.io/github/stars/rustviz/rustviz?style=social&label=Star",alt:"GitHub stars",height:20})})]})]})},fP=()=>M.jsxs("div",{className:"description",children:[M.jsxs("p",{children:["Welcome!"," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","is a tool to visualize an approximation of the compile-time reasoning of"," ",M.jsx("a",{href:"https://www.rust-lang.org/",target:"_blank",rel:"noreferrer",children:"Rust's"})," ","borrow checker."]}),M.jsxs("p",{children:["Try it out by writing a Rust program in the editor on the right, then clicking the ",M.jsx("strong",{children:"Generate Visualization"})," button. The diagram appears in the bottom panel."]}),M.jsx("h3",{children:"Annotation markers"}),M.jsx("p",{children:"You can keep individual items out of the visualization with comment markers:"}),M.jsxs("ul",{children:[M.jsxs("li",{children:[M.jsx("code",{children:"// rustviz: skip"})," on a ",M.jsx("code",{children:"let"})," or ",M.jsx("code",{children:"fn"})," line — the item stays in the source but is omitted from the trace."]}),M.jsxs("li",{children:[M.jsx("code",{children:"// rustviz: hide"})," on a ",M.jsx("code",{children:"fn"})," line — additionally removes the entire fn from the rendered code panel; call sites still draw their arrows."]})]}),M.jsx("h3",{children:"Known limitations"}),M.jsx("p",{children:"RustViz is a research tool. It only visualizes programs that compile (code with a borrow-checker error is rejected with rustc's message), and it handles a subset of Rust. In particular:"}),M.jsxs("p",{children:[M.jsx("strong",{children:"Some of what's drawn is wrong"}),", so don't rely on it for:"]}),M.jsxs("ul",{children:[M.jsxs("li",{children:["Functions that return a reference (e.g. ",M.jsx("code",{children:"first_word"}),","," ",M.jsx("code",{children:"longest"}),"): the result isn't linked to what it borrows."]}),M.jsxs("li",{children:["Values consumed by a method taking ",M.jsx("code",{children:"self"})," (",M.jsx("code",{children:"v.into_iter()"}),", ",M.jsx("code",{children:"unwrap_or_else"}),") or by"," ",M.jsx("code",{children:"s1 + &s2"}),": shown as dropped at the end instead of moved."]}),M.jsxs("li",{children:["Ownership wording on references: a ",M.jsx("code",{children:"&mut"}),' may be called "the owner", and a string literal "acquires ownership".']}),M.jsxs("li",{children:["Shadowed variables (",M.jsx("code",{children:"let x"})," twice) share one column;"," ",M.jsx("code",{children:"#[derive(Debug)]"})," adds extra timelines;"," ",M.jsx("code",{children:"Rc"})," clones each appear to drop the value."]})]}),M.jsx("p",{children:M.jsx("strong",{children:"These crash the visualizer:"})}),M.jsxs("ul",{children:[M.jsxs("li",{children:["Tuple fields (",M.jsx("code",{children:"t.0"}),") and tuple structs; ",M.jsx("code",{children:"const"})," ","and ",M.jsx("code",{children:"static"})," items; unions."]}),M.jsxs("li",{children:["Assigning to a field through a reference (",M.jsx("code",{children:"self.n += 1"})," in a"," ",M.jsx("code",{children:"&mut self"})," method), to ",M.jsx("code",{children:"v[i]"}),", to"," ",M.jsx("code",{children:"o.inner.x"}),", or through ",M.jsx("code",{children:"*cell.borrow_mut()"}),"."]})]}),M.jsx("p",{children:M.jsx("strong",{children:"Simplified or not shown:"})}),M.jsxs("ul",{children:[M.jsxs("li",{children:["Loops show one iteration; closures show their captures but not their bodies; method chains show only the first call; match guards and"," ",M.jsx("code",{children:"async"}),"/",M.jsx("code",{children:"await"})," aren't visualized."]}),M.jsxs("li",{children:["Smart pointers (",M.jsx("code",{children:"Box"}),", ",M.jsx("code",{children:"Rc"}),", ",M.jsx("code",{children:"RefCell"}),") are drawn as a single owner."]})]}),M.jsxs("p",{children:["If you find an example that exposes a bug, please open an issue on the"," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz/issues",target:"_blank",rel:"noreferrer",children:"repo"})," ","with the snippet and error message."]}),M.jsx("h3",{children:"Presentation mode"}),M.jsx("p",{children:"The three panels are independently resizable, so you can stage a clean presentation view by:"}),M.jsxs("ul",{children:[M.jsx("li",{children:"Dragging the vertical handle to the left edge to hide this info panel."}),M.jsx("li",{children:"Dragging the horizontal handle up to hide the editor entirely, or most of the way up to leave just the example-picker toolbar visible for switching snippets live."})]}),M.jsx("h3",{children:"Other ways to use RustViz"}),M.jsx("p",{children:"Besides this playground, RustViz ships as:"}),M.jsxs("ul",{children:[M.jsxs("li",{children:["an mdBook preprocessor — for embedding visualizations in a book, like our"," ",M.jsx("a",{href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",children:"visual Rust tutorial"})]}),M.jsxs("li",{children:["a ",M.jsx("code",{children:"rustviz"})," command-line tool — one-shot rendering of a ",M.jsx("code",{children:".rs"})," file to SVG or self-contained HTML"]}),M.jsx("li",{children:"a Rust library — for programmatic use"})]}),M.jsxs("p",{children:["Setup and usage for all of them are in the"," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",children:"GitHub repo"}),"."]}),M.jsx("h3",{children:"Credits"}),M.jsxs("p",{children:["RustViz is a project of the"," ",M.jsx("a",{href:"https://web.eecs.umich.edu/~comar/",target:"_blank",rel:"noreferrer",children:"Future of Programming Lab"})," ","at the University of Michigan. The plugin is built on"," ",M.jsxs("a",{href:"https://github.com/cognitive-engineering-lab/rustc_plugin",target:"_blank",rel:"noreferrer",children:[M.jsx("code",{children:"rustc_plugin"})," / ",M.jsx("code",{children:"rustc_utils"})]})," ","by"," ",M.jsx("a",{href:"https://willcrichton.net/",target:"_blank",rel:"noreferrer",children:"Will Crichton"}),", and ports several MIR / borrow-fact helpers from"," ",M.jsx("a",{href:"https://github.com/cognitive-engineering-lab/aquascope",target:"_blank",rel:"noreferrer",children:"Aquascope"})," ","(another visualization tool for Rust) by"," ",M.jsx("a",{href:"https://gavinleroy.com/",target:"_blank",rel:"noreferrer",children:"Gavin Gray"}),". RustViz is an independent academic project and has no formal affiliation with the Rust project or the Rust Foundation."]}),M.jsx("h3",{children:"Research paper"}),M.jsx("p",{children:"An earlier version of RustViz used hand-written visualization directives in source comments and was deployed in classroom teaching at the University of Michigan. That version is described in our VL/HCC 2022 paper:"}),M.jsxs("p",{className:"citation",children:["Marcelo Almeida, Grant Cole, Ke Du, Gongming Luo, Shulin Pan, Yu Pan, Kai Qiu, Vishnu Reddy, Haochen Zhang, Yingying Zhu, and Cyrus Omar."," ",M.jsx("a",{href:"https://web.eecs.umich.edu/~comar/rustviz-vlhcc22.pdf",target:"_blank",rel:"noreferrer",children:"RustViz: Interactively Visualizing Ownership and Borrowing"}),". In ",M.jsx("em",{children:"2022 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)"}),", pages 1–10, 2022."," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz/blob/main/rustviz.bib",target:"_blank",rel:"noreferrer",children:"BibTeX"}),"."]})]}),uP=({selection:e,userExamples:t,onSelect:n})=>{const o=s=>{const a=sP(s.target.value);a&&n(a)};return M.jsxs("div",{className:"example-picker",children:[M.jsx("label",{htmlFor:"example-select",children:"Example:"}),M.jsxs("select",{id:"example-select",value:qu(e),onChange:o,children:[t.length>0&&M.jsx("optgroup",{label:"Your examples",children:t.map(s=>M.jsx("option",{value:qu({kind:"user",id:s.id}),children:s.name},s.id))}),ga.map((s,a)=>M.jsx("optgroup",{label:s.chapter,children:s.examples.map((r,l)=>M.jsx("option",{value:qu({kind:"preloaded",chapter:a,index:l}),children:r.name},r.name))},s.chapter))]})]})},pP=()=>{const[e,t]=z.useState(!1),[n,o]=z.useState(!1),[s,a]=z.useState(null),[r,l]=z.useState(null),[i,c]=z.useState(null),[f,u]=z.useState(null),[p,h]=z.useState(()=>Ty()),[d,m]=z.useState(()=>K9(Ty())),x=z.useRef(d),g=z.useRef(p);z.useEffect(()=>{x.current=d},[d]),z.useEffect(()=>{g.current=p},[p]);const[y,O]=z.useState(!1),[b,S]=z.useState(!1);z.useEffect(()=>{const D=H9(p);O(!D),D&&S(!1)},[p]),z.useEffect(()=>{J9(d)},[d]);const k=D=>{const R=x.current,L=g.current;if(R.kind==="user"){const Z=L.map(Y=>Y.id===R.id?{...Y,code:D}:Y);h(Z);return}const A=ga[R.chapter].examples[R.index].name,Q={id:Pu(),name:eP(A,L),code:D};h([...L,Q]),m({kind:"user",id:Q.id})},w=z.useRef(null);z.useEffect(()=>{if(!w.current)return;const D=Cu(d,p),R=new iP(w.current,D,k);return l(R),()=>{R.destroy(),l(null)}},[]);const P=z.useRef(null),_=async()=>{var A;if(!r)return;(A=P.current)==null||A.abort();const D=new AbortController;P.current=D;const R=Z9(r.getCurrentCode()),L=await F9(R);if(L){if(P.current!==D)return;c(L.code_panel),u(L.timeline_panel),o(!1),t(!1);return}t(!0);try{const Q=await Mt.post(`${aP}/submit-code`,{code:R},{signal:D.signal});if(P.current!==D)return;Q.status===200?(c(Q.data.code_panel),u(Q.data.timeline_panel),o(!1),G9(R,{code_panel:Q.data.code_panel,timeline_panel:Q.data.timeline_panel})):(console.error("Error:",Q.statusText),a(Q.data),o(!0))}catch(Q){if(Mt.isCancel(Q)||D.signal.aborted||P.current!==D)return;Mt.isAxiosError(Q)&&Q.response?a(Q.response.data):a("An unexpected error occurred"),console.error("An error occurred:",Q),o(!0)}finally{P.current===D&&t(!1)}};z.useEffect(()=>{_()},[r]),z.useEffect(()=>{helpers("ex2")},[i,f]);const $=D=>{m(D),r&&(r.setCurrentCode(Cu(D,p)),_())},W=()=>{const D={id:Pu(),name:tP(p),code:_y};h([...p,D]),m({kind:"user",id:D.id}),r&&(r.setCurrentCode(_y),_())},U=()=>{if(d.kind!=="user")return;const D=p.find(A=>A.id===d.id);if(!D)return;const R=window.prompt("Rename example:",D.name);if(R===null)return;const L=R.trim();!L||L===D.name||h(p.map(A=>A.id===D.id?{...A,name:L}:A))},J=()=>{if(d.kind!=="user")return;const D=p.findIndex(Q=>Q.id===d.id);if(D<0)return;const R=p[D];if(!window.confirm(`Delete "${R.name}"? This can't be undone.`))return;const L=p.filter(Q=>Q.id!==R.id);let A;if(L.length>0){const Q=Math.min(D,L.length-1);A={kind:"user",id:L[Q].id}}else A=kh;h(L),m(A),r&&(r.setCurrentCode(Cu(A,L)),_())},G=()=>{var Z;if(!r)return;const D=r.getCurrentCode(),R=d.kind==="user"?((Z=p.find(Y=>Y.id===d.id))==null?void 0:Z.name)??"example":ga[d.chapter].examples[d.index].name,L=new Blob([D],{type:"text/x-rust"}),A=URL.createObjectURL(L),Q=document.createElement("a");Q.href=A,Q.download=nP(R),document.body.appendChild(Q),Q.click(),Q.remove(),setTimeout(()=>URL.revokeObjectURL(A),0)},H=z.useRef(null),K=()=>{var D;(D=H.current)==null||D.click()},pt=async D=>{var Z;const R=(Z=D.target.files)==null?void 0:Z[0];if(D.target.value="",!R)return;const L=await R.text(),A=R.name.replace(/\.rs$/i,""),Q={id:Pu(),name:oP(A,p),code:L};h([...p,Q]),m({kind:"user",id:Q.id}),r&&(r.setCurrentCode(L),_())},j=d.kind==="user",X=d.kind==="user";return M.jsxs("div",{className:"app-shell",children:[M.jsx(cP,{}),M.jsxs(wh,{direction:"vertical",className:"main-split",autoSaveId:"rustviz-vertical",children:[M.jsx(Ba,{defaultSize:40,minSize:0,children:M.jsxs(wh,{direction:"horizontal",autoSaveId:"rustviz-top-horizontal",children:[M.jsx(Ba,{defaultSize:lP?0:35,minSize:15,collapsible:!0,className:"panel description-panel",children:M.jsx(fP,{})}),M.jsx(bh,{className:"resize-handle resize-handle-vertical"}),M.jsxs(Ba,{defaultSize:65,minSize:25,className:"panel editor-panel",children:[M.jsxs("div",{className:"editor-toolbar",children:[M.jsx(uP,{selection:d,userExamples:p,onSelect:$}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:W,title:"Create a new example (saved in this browser)","aria-label":"Create a new example",children:"+"}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:U,disabled:!j,title:j?"Rename this example":"Rename only works on examples you created","aria-label":"Rename this example",children:"✎"}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:J,disabled:!X,title:X?"Delete this example":"Delete only works on examples you created","aria-label":"Delete this example",children:M.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[M.jsx("polyline",{fill:"none",points:"3 6 5 6 21 6"}),M.jsx("path",{fill:"none",d:"M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"}),M.jsx("path",{fill:"none",d:"M10 11v6"}),M.jsx("path",{fill:"none",d:"M14 11v6"}),M.jsx("path",{fill:"none",d:"M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"})]})}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:G,title:"Save current example as a .rs file","aria-label":"Save current example as a .rs file",children:M.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[M.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),M.jsx("polyline",{fill:"none",points:"7 10 12 15 17 10"}),M.jsx("line",{fill:"none",x1:"12",y1:"15",x2:"12",y2:"3"})]})}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:K,title:"Load a .rs file as a new example","aria-label":"Load a .rs file as a new example",children:M.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[M.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),M.jsx("polyline",{fill:"none",points:"17 8 12 3 7 8"}),M.jsx("line",{fill:"none",x1:"12",y1:"3",x2:"12",y2:"15"})]})}),M.jsx("input",{ref:H,type:"file",accept:".rs,text/x-rust,text/plain",style:{display:"none"},onChange:pt}),M.jsx("button",{className:"cm-button generate-button",onClick:_,disabled:e,children:e?M.jsxs(M.Fragment,{children:["Generating",M.jsx("span",{className:"ellipsis"})]}):"Generate Visualization"})]}),y&&!b&&M.jsxs("div",{className:"storage-warning",role:"alert",children:[M.jsx("span",{children:"Your edits aren't being saved: this browser's storage for this site is full or disabled, so they will be lost when you reload. Use the download button to save a copy."}),M.jsx("button",{className:"storage-warning-dismiss",onClick:()=>S(!0),"aria-label":"Dismiss warning",title:"Dismiss",children:"×"})]}),M.jsx("div",{className:"editor-host",ref:w})]})]})}),M.jsx(bh,{className:"resize-handle resize-handle-horizontal"}),M.jsxs(Ba,{defaultSize:60,minSize:15,className:"panel viz-panel",children:[e&&M.jsxs("div",{className:"loading-status",children:[M.jsxs("p",{className:"loading-message",children:["Generating visualization",M.jsx("span",{className:"ellipsis"})]}),M.jsx("p",{className:"loading-note",children:"Dropdown examples and snippets you've rendered before are cached client-side and load instantly. This wait is only for novel code: the first compile after a quiet period takes a few extra seconds while the compile server wakes up; subsequent compiles are fast."})]}),n&&s?M.jsx(_9,{err_string:s}):M.jsx("div",{className:"viz-content",children:M.jsxs("div",{className:"flex-container vis_block",children:[M.jsx("div",{className:"ex2 code_panel",dangerouslySetInnerHTML:{__html:i??""}}),M.jsx("div",{className:"ex2 tl_panel",style:{width:"auto"},dangerouslySetInnerHTML:{__html:f??""}})]})})]})]})]})},hP=Au.createRoot(document.getElementById("root"));hP.render(M.jsx(Gy.StrictMode,{children:M.jsx(pP,{})}));
-//# sourceMappingURL=index-D28Pdjkw.js.map
+//# sourceMappingURL=index-BFzymirW.js.map
