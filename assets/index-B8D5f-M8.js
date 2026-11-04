@@ -461,7 +461,7 @@ fn main() {
     if let Some(x) = opt {
         read(x);
     }
-}`}]}],WP="259b54d7fab37371",NP="2.0.0+nightly-2026-05-01+d0323a751de44951",LP={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+}`}]}],WP="0dce7e66d5c999aa",NP="2.0.0+nightly-2026-05-01+7348792727bbfc50",LP={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -592,68 +592,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -811,68 +765,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -1246,68 +1154,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -1458,68 +1320,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -1765,68 +1581,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -1978,68 +1748,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -2306,68 +2030,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -2523,68 +2201,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -2855,68 +2487,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -3068,68 +2654,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -3388,68 +2928,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -3605,68 +3099,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -3940,68 +3388,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -4158,68 +3560,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -4493,68 +3849,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -4711,68 +4021,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -5058,68 +4322,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -5276,68 +4494,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -5641,68 +4813,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -5858,68 +4984,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -6210,68 +5290,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -6424,68 +5458,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -6819,68 +5807,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -7038,68 +5980,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -7485,68 +6381,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -7700,68 +6550,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -8085,68 +6889,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -8306,68 +7064,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -8748,68 +7460,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -8978,68 +7644,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -9377,68 +7997,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -9611,68 +8185,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -10019,68 +8547,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -10238,68 +8720,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -10648,68 +9084,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -10873,68 +9263,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -11289,68 +9633,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -11502,68 +9800,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -11816,68 +10068,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -12031,68 +10237,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -12375,68 +10535,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -12589,68 +10703,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -12945,68 +11013,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -13159,68 +11181,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -13492,68 +11468,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -13710,68 +11640,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -14074,68 +11958,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -14292,68 +12130,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -14638,68 +12430,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -14857,68 +12603,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -15372,68 +13072,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -15589,68 +13243,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -15914,68 +13522,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -16131,68 +13693,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -16526,68 +14042,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -16743,68 +14213,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -17132,68 +14556,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -17353,68 +14731,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -17731,68 +15063,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -17954,68 +15240,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -18370,68 +15610,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -18598,68 +15792,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -19084,68 +16232,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -19302,68 +16404,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -19700,68 +16756,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -19918,68 +16928,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -20285,68 +17249,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -20501,68 +17419,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -20824,68 +17696,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -21039,68 +17865,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -21328,68 +18108,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -21545,68 +18279,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -21846,68 +18534,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -22062,68 +18704,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -22399,68 +18995,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -22619,68 +19169,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -22920,68 +19424,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -23140,68 +19598,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -23445,68 +19857,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         ]]>
         </style>
     </defs>
@@ -23661,68 +20027,22 @@ fn main() {
     .branch-group:hover .tooltip-trigger {
         filter: url(#glow);
     }
-    
+
     /* hash based styling */
-    [data-hash="0"] {
-        fill: #6e6b5e;
-    }
-    
-    [data-hash="1"] {
-        fill: #1893ff;
-        stroke: #1893ff;
-    }
-    
-    [data-hash="2"] {
-        fill: #ff7f50;
-        stroke: #ff7f50;
-    }
-    
-    [data-hash="3"] {
-        fill: #8635ff;
-        stroke: #8635ff;
-    }
-    
-    [data-hash="4"] {
-        fill: #dc143c;
-        stroke: #dc143c;
-    }
-    
-    [data-hash="5"] {
-        fill: #0a810a;
-        stroke: #0a810a;
-    }
-    
-    [data-hash="6"] {
-        fill: #008080;
-        stroke: #008080;
-    }
-    
-    [data-hash="7"] {
-        fill: #ff6cce;
-        stroke: #ff6cce;
-    }
-    
-    [data-hash="8"] {
-        fill: #00d6fc;
-        stroke: #00d6fc;
-    }
-    
-    [data-hash="9"] {
-        fill: #b99f35;
-        stroke: #b99f35;
-    }
-    [data-hash="10"] {
-        fill: #15a710;
-        stroke: #15a710;
-    }
-    [data-hash="11"] {
-        fill: #000000;
-        stroke: #000000;
-    }
-    [data-hash="12"] {
-        fill: #463ae9;
-        stroke: #463ae9;
-    }
+    [data-hash="0"] { fill: #6e6b5e; }
+    [data-hash="1"] { fill: #1893ff; stroke: #1893ff; }
+    [data-hash="2"] { fill: #ff7f50; stroke: #ff7f50; }
+    [data-hash="3"] { fill: #8635ff; stroke: #8635ff; }
+    [data-hash="4"] { fill: #dc143c; stroke: #dc143c; }
+    [data-hash="5"] { fill: #0a810a; stroke: #0a810a; }
+    [data-hash="6"] { fill: #008080; stroke: #008080; }
+    [data-hash="7"] { fill: #ff6cce; stroke: #ff6cce; }
+    [data-hash="8"] { fill: #00d6fc; stroke: #00d6fc; }
+    [data-hash="9"] { fill: #b99f35; stroke: #b99f35; }
+    [data-hash="10"] { fill: #15a710; stroke: #15a710; }
+    [data-hash="11"] { fill: #000000; stroke: #000000; }
+    [data-hash="12"] { fill: #463ae9; stroke: #463ae9; }
+
         
         text {
             user-select: none;
@@ -23858,4 +20178,4 @@ fn main() {
 
 }
 `;function Ty(){try{const e=localStorage.getItem(KO);if(!e)return[];const t=JSON.parse(e);return Array.isArray(t)?t.filter(n=>typeof(n==null?void 0:n.id)=="string"&&typeof(n==null?void 0:n.name)=="string"&&typeof(n==null?void 0:n.code)=="string"):[]}catch{return[]}}function e9(e){return ZO(KO,JSON.stringify(e))}function n9(e){try{const t=localStorage.getItem(JO);if(!t)return kh;const n=JSON.parse(t);if((n==null?void 0:n.kind)==="preloaded"&&typeof n.chapter=="number"&&typeof n.index=="number"){const o=ga[n.chapter];if(o&&o.examples[n.index])return n}if((n==null?void 0:n.kind)==="user"&&typeof n.id=="string"&&e.some(o=>o.id===n.id))return n}catch{}return kh}function o9(e){ZO(JO,JSON.stringify(e))}function Cf(e,t){if(e.kind==="user"){const n=t.find(o=>o.id===e.id);return n?n.code:ga[0].examples[0].code}return ga[e.chapter].examples[e.index].code}function Pf(){return typeof crypto<"u"&&typeof crypto.randomUUID=="function"?crypto.randomUUID():Math.random().toString(36).slice(2,10)+Date.now().toString(36)}function s9(e){let t=0;for(const n of e){const o=/^New example (\d+)$/.exec(n.name);if(o){const s=parseInt(o[1],10);s>t&&(t=s)}}return`New example ${t+1}`}function a9(e,t){const n=new Set(t.map(s=>s.name)),o=`${e} (copy)`;if(!n.has(o))return o;for(let s=2;;s++){const a=`${e} (copy ${s})`;if(!n.has(a))return a}}function l9(e){return(e.replace(/[<>:"/\\|?*\x00-\x1f]+/g,"").replace(/\s+/g," ").replace(/^[\s.]+|[\s.]+$/g,"")||"example")+".rs"}function r9(e,t){const n=e.trim()||"Imported example",o=new Set(t.map(s=>s.name));if(!o.has(n))return n;for(let s=2;;s++){const a=`${n} (${s})`;if(!o.has(a))return a}}function qf(e){return e.kind==="user"?`user:${e.id}`:`preloaded:${e.chapter}:${e.index}`}function i9(e){if(e.startsWith("user:"))return{kind:"user",id:e.slice(5)};if(e.startsWith("preloaded:")){const[t,n]=e.slice(10).split(":").map(Number);if(!Number.isNaN(t)&&!Number.isNaN(n))return{kind:"preloaded",chapter:t,index:n}}return null}const c9="https://rustviz-api-816769776225.us-central1.run.app",u9=768,f9=typeof window<"u"&&typeof window.matchMedia=="function"&&window.matchMedia(`(max-width: ${u9}px)`).matches;class p9{constructor(t,n,o){hu(this,"view");hu(this,"programmatic",!1);const s=B.updateListener.of(l=>{l.docChanged&&(this.programmatic||o(l.state.doc.toString()))}),a=ct.create({doc:n,extensions:[...q7,s]});this.view=new B({state:a,parent:t})}getCurrentCode(){return this.view.state.doc.toString()}setCurrentCode(t){if(t!==this.view.state.doc.toString()){this.programmatic=!0;try{this.view.dispatch({changes:{from:0,to:this.view.state.doc.length,insert:t}})}finally{this.programmatic=!1}}}destroy(){this.view.destroy()}}const h9=()=>{const e=Q.useRef(null);return Q.useEffect(()=>{const t=n=>{var o;(o=e.current)!=null&&o.open&&!e.current.contains(n.target)&&(e.current.open=!1)};return document.addEventListener("mousedown",t),()=>document.removeEventListener("mousedown",t)},[]),S.jsxs("header",{className:"titlebar",children:[S.jsxs("div",{className:"titlebar-left",children:[S.jsxs("h1",{className:"titlebar-title",children:[S.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","Playground"]}),S.jsx("a",{className:"titlebar-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",title:"Open the RustViz tutorial in a new tab",children:"New to Rust? Read our visual tutorial →"})]}),S.jsxs("div",{className:"titlebar-meta",children:[S.jsxs("code",{className:"titlebar-version",children:["rustc ","nightly-2026-05-01"]}),S.jsxs("code",{className:"titlebar-version",children:["rustviz-plugin ","2.0.0"]}),S.jsxs("details",{ref:e,className:"titlebar-overflow",children:[S.jsx("summary",{className:"titlebar-overflow-trigger","aria-label":"More",title:"More",children:"⋯"}),S.jsxs("div",{className:"titlebar-overflow-popover",role:"menu",children:[S.jsx("a",{className:"titlebar-overflow-item titlebar-overflow-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",role:"menuitem",children:"Read our visual tutorial →"}),S.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustc ","nightly-2026-05-01"]}),S.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustviz-plugin ","2.0.0"]})]})]}),S.jsx("a",{className:"titlebar-stars",href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",title:"Star us on GitHub",children:S.jsx("img",{src:"https://img.shields.io/github/stars/rustviz/rustviz?style=social&label=Star",alt:"GitHub stars",height:20})})]})]})},d9=()=>S.jsxs("div",{className:"description",children:[S.jsxs("p",{children:["Welcome!"," ",S.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","is a tool to visualize an approximation of the compile-time reasoning of"," ",S.jsx("a",{href:"https://www.rust-lang.org/",target:"_blank",rel:"noreferrer",children:"Rust's"})," ","borrow checker."]}),S.jsxs("p",{children:["Try it out by writing a Rust program in the editor on the right, then clicking the ",S.jsx("strong",{children:"Generate Visualization"})," button. The diagram appears in the bottom panel."]}),S.jsx("h3",{children:"Annotation markers"}),S.jsx("p",{children:"You can keep individual items out of the visualization with comment markers:"}),S.jsxs("ul",{children:[S.jsxs("li",{children:[S.jsx("code",{children:"// rustviz: skip"})," on a ",S.jsx("code",{children:"let"})," or ",S.jsx("code",{children:"fn"})," line — the item stays in the source but is omitted from the trace."]}),S.jsxs("li",{children:[S.jsx("code",{children:"// rustviz: hide"})," on a ",S.jsx("code",{children:"fn"})," line — additionally removes the entire fn from the rendered code panel; call sites still draw their arrows."]})]}),S.jsx("h3",{children:"Known limitations"}),S.jsx("p",{children:`RustViz is a research tool. It only visualizes programs that compile (code with a borrow-checker error is rejected with rustc's message), and it handles a subset of Rust. When your program compiles but uses something RustViz can't handle, you'll see "RustViz can't visualize this program yet" with a link to report it. In particular:`}),S.jsxs("p",{children:[S.jsx("strong",{children:"Some of what's drawn is wrong"}),", so don't rely on it for:"]}),S.jsxs("ul",{children:[S.jsxs("li",{children:["Functions that return a reference (e.g. ",S.jsx("code",{children:"first_word"}),","," ",S.jsx("code",{children:"longest"}),"): the result isn't linked to what it borrows."]}),S.jsxs("li",{children:["A closure passed straight to a function (",S.jsx("code",{children:"thread::spawn(move || …)"}),"): its captures aren't drawn, so a moved-in value is shown as dropped at the end."]}),S.jsxs("li",{children:["Moving a ",S.jsx("code",{children:"&mut"})," (",S.jsx("code",{children:"let r2 = r;"}),") is described as moving the resource rather than the reference."]}),S.jsxs("li",{children:["A variable assigned in only some branches of an ",S.jsx("code",{children:"if"})," is drawn as owning a value afterwards; Rust treats it as possibly uninitialized."]}),S.jsxs("li",{children:["Shadowed variables (",S.jsx("code",{children:"let x"})," twice) share one column;"," ","tuples (",S.jsx("code",{children:"let t = (…)"}),", ",S.jsx("code",{children:"t.0"}),") show no events;"," ",S.jsx("code",{children:"Rc"})," clones each appear to drop the value."]}),S.jsxs("li",{children:["After a partial move (",S.jsx("code",{children:"let n = p.name;"})," or"," ",S.jsx("code",{children:"..p"}),"), ",S.jsx("code",{children:"p"})," itself is still said to drop its resource; only its remaining fields are dropped."]})]}),S.jsxs("p",{children:[S.jsx("strong",{children:"Some valid programs crash the visualizer"}),` (you'll see "RustViz can't visualize this program yet"). We track the ones we know about as`," ",S.jsxs("a",{href:"https://github.com/rustviz/rustviz/issues?q=is%3Aissue+is%3Aopen+label%3Acrash",target:"_blank",rel:"noreferrer",children:["issues labelled ",S.jsx("code",{children:"crash"})]}),"."]}),S.jsx("p",{children:S.jsx("strong",{children:"Simplified or not shown:"})}),S.jsxs("ul",{children:[S.jsxs("li",{children:["Loops show one iteration (and a loop variable like"," ",S.jsx("code",{children:"for c in s.chars()"})," has no start or end); closures show their captures but not their bodies; method chains show only the first call; a match guard's events appear only in its own arm;"," ",S.jsx("code",{children:"async"}),"/",S.jsx("code",{children:"await"})," and your own macros aren't visualized."]}),S.jsxs("li",{children:["Writes to a field through a reference (",S.jsx("code",{children:"self.n += 1"})," in a"," ",S.jsx("code",{children:"&mut self"})," method) or to ",S.jsx("code",{children:"v[i]"})," aren't drawn."]}),S.jsxs("li",{children:["Smart pointers (",S.jsx("code",{children:"Box"}),", ",S.jsx("code",{children:"Rc"}),", ",S.jsx("code",{children:"RefCell"}),") and unions are drawn as a single owner; a write through"," ",S.jsx("code",{children:"*cell.borrow_mut()"})," shows only the call, as a read."]})]}),S.jsxs("p",{children:["If you find an example that exposes a bug, please open an issue on the"," ",S.jsx("a",{href:"https://github.com/rustviz/rustviz/issues",target:"_blank",rel:"noreferrer",children:"repo"})," ","with the snippet and error message."]}),S.jsx("h3",{children:"Presentation mode"}),S.jsx("p",{children:"The three panels are independently resizable, so you can stage a clean presentation view by:"}),S.jsxs("ul",{children:[S.jsx("li",{children:"Dragging the vertical handle to the left edge to hide this info panel."}),S.jsx("li",{children:"Dragging the horizontal handle up to hide the editor entirely, or most of the way up to leave just the example-picker toolbar visible for switching snippets live."})]}),S.jsx("h3",{children:"Other ways to use RustViz"}),S.jsx("p",{children:"Besides this playground, RustViz ships as:"}),S.jsxs("ul",{children:[S.jsxs("li",{children:["an mdBook preprocessor — for embedding visualizations in a book, like our"," ",S.jsx("a",{href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",children:"visual Rust tutorial"})]}),S.jsxs("li",{children:["a ",S.jsx("code",{children:"rustviz"})," command-line tool — one-shot rendering of a ",S.jsx("code",{children:".rs"})," file to SVG or self-contained HTML"]}),S.jsx("li",{children:"a Rust library — for programmatic use"})]}),S.jsxs("p",{children:["Setup and usage for all of them are in the"," ",S.jsx("a",{href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",children:"GitHub repo"}),"."]}),S.jsx("h3",{children:"Credits"}),S.jsxs("p",{children:["RustViz is a project of the"," ",S.jsx("a",{href:"https://web.eecs.umich.edu/~comar/",target:"_blank",rel:"noreferrer",children:"Future of Programming Lab"})," ","at the University of Michigan. The plugin is built on"," ",S.jsxs("a",{href:"https://github.com/cognitive-engineering-lab/rustc_plugin",target:"_blank",rel:"noreferrer",children:[S.jsx("code",{children:"rustc_plugin"})," / ",S.jsx("code",{children:"rustc_utils"})]})," ","by"," ",S.jsx("a",{href:"https://willcrichton.net/",target:"_blank",rel:"noreferrer",children:"Will Crichton"}),", and ports several MIR / borrow-fact helpers from"," ",S.jsx("a",{href:"https://github.com/cognitive-engineering-lab/aquascope",target:"_blank",rel:"noreferrer",children:"Aquascope"})," ","(another visualization tool for Rust) by"," ",S.jsx("a",{href:"https://gavinleroy.com/",target:"_blank",rel:"noreferrer",children:"Gavin Gray"}),". RustViz is an independent academic project and has no formal affiliation with the Rust project or the Rust Foundation."]}),S.jsx("h3",{children:"Research paper"}),S.jsx("p",{children:"An earlier version of RustViz used hand-written visualization directives in source comments and was deployed in classroom teaching at the University of Michigan. That version is described in our VL/HCC 2022 paper:"}),S.jsxs("p",{className:"citation",children:["Marcelo Almeida, Grant Cole, Ke Du, Gongming Luo, Shulin Pan, Yu Pan, Kai Qiu, Vishnu Reddy, Haochen Zhang, Yingying Zhu, and Cyrus Omar."," ",S.jsx("a",{href:"https://web.eecs.umich.edu/~comar/rustviz-vlhcc22.pdf",target:"_blank",rel:"noreferrer",children:"RustViz: Interactively Visualizing Ownership and Borrowing"}),". In ",S.jsx("em",{children:"2022 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)"}),", pages 1–10, 2022."," ",S.jsx("a",{href:"https://github.com/rustviz/rustviz/blob/main/rustviz.bib",target:"_blank",rel:"noreferrer",children:"BibTeX"}),"."]})]}),g9=({selection:e,userExamples:t,onSelect:n})=>{const o=s=>{const a=i9(s.target.value);a&&n(a)};return S.jsxs("div",{className:"example-picker",children:[S.jsx("label",{htmlFor:"example-select",children:"Example:"}),S.jsxs("select",{id:"example-select",value:qf(e),onChange:o,children:[t.length>0&&S.jsx("optgroup",{label:"Your examples",children:t.map(s=>S.jsx("option",{value:qf({kind:"user",id:s.id}),children:s.name},s.id))}),ga.map((s,a)=>S.jsx("optgroup",{label:s.chapter,children:s.examples.map((l,r)=>S.jsx("option",{value:qf({kind:"preloaded",chapter:a,index:r}),children:l.name},l.name))},s.chapter))]})]})},m9=()=>{const[e,t]=Q.useState(!1),[n,o]=Q.useState(!1),[s,a]=Q.useState(null),[l,r]=Q.useState(null),[i,c]=Q.useState(""),[u,f]=Q.useState(null),[p,h]=Q.useState(null),[d,m]=Q.useState(null),[x,g]=Q.useState(()=>Ty()),[y,w]=Q.useState(()=>n9(Ty())),O=Q.useRef(y),k=Q.useRef(x);Q.useEffect(()=>{O.current=y},[y]),Q.useEffect(()=>{k.current=x},[x]);const[M,b]=Q.useState(!1),[q,X]=Q.useState(!1);Q.useEffect(()=>{const D=e9(x);b(!D),D&&X(!1)},[x]),Q.useEffect(()=>{o9(y)},[y]);const z=D=>{const T=O.current,_=k.current;if(T.kind==="user"){const et=_.map(pt=>pt.id===T.id?{...pt,code:D}:pt);g(et);return}const U=ga[T.chapter].examples[T.index].name,F={id:Pf(),name:a9(U,_),code:D};g([..._,F]),w({kind:"user",id:F.id})},E=Q.useRef(null);Q.useEffect(()=>{if(!E.current)return;const D=Cf(y,x),T=new p9(E.current,D,z);return f(T),()=>{T.destroy(),f(null)}},[]);const V=Q.useRef(null),Z=async()=>{var U,F;if(!u)return;(U=V.current)==null||U.abort();const D=new AbortController;V.current=D;const T=t9(u.getCurrentCode()),_=await KP(T);if(_){if(V.current!==D)return;h(_.code_panel),m(_.timeline_panel),o(!1),t(!1);return}t(!0);try{const et=await vt.post(`${c9}/submit-code`,{code:T},{signal:D.signal});if(V.current!==D)return;et.status===200?(h(et.data.code_panel),m(et.data.timeline_panel),o(!1),JP(T,{code_panel:et.data.code_panel,timeline_panel:et.data.timeline_panel})):(console.error("Error:",et.statusText),a(String(et.data)),r(null),c(T),o(!0))}catch(et){if(vt.isCancel(et)||D.signal.aborted||V.current!==D)return;if(vt.isAxiosError(et)&&et.response){const pt=et.response.data;a(typeof pt=="string"?pt:JSON.stringify(pt));const qe=(F=et.response.headers)==null?void 0:F["x-rustviz-error-kind"];r(typeof qe=="string"?qe:null)}else a("An unexpected error occurred"),r(null);c(T),console.error("An error occurred:",et),o(!0)}finally{V.current===D&&t(!1)}};Q.useEffect(()=>{Z()},[u]),Q.useEffect(()=>{helpers("ex2")},[p,d]);const Y=D=>{w(D),u&&(u.setCurrentCode(Cf(D,x)),Z())},K=()=>{const D={id:Pf(),name:s9(x),code:_y};g([...x,D]),w({kind:"user",id:D.id}),u&&(u.setCurrentCode(_y),Z())},J=()=>{if(y.kind!=="user")return;const D=x.find(U=>U.id===y.id);if(!D)return;const T=window.prompt("Rename example:",D.name);if(T===null)return;const _=T.trim();!_||_===D.name||g(x.map(U=>U.id===D.id?{...U,name:_}:U))},dt=()=>{if(y.kind!=="user")return;const D=x.findIndex(F=>F.id===y.id);if(D<0)return;const T=x[D];if(!window.confirm(`Delete "${T.name}"? This can't be undone.`))return;const _=x.filter(F=>F.id!==T.id);let U;if(_.length>0){const F=Math.min(D,_.length-1);U={kind:"user",id:_[F].id}}else U=kh;g(_),w(U),u&&(u.setCurrentCode(Cf(U,_)),Z())},j=()=>{var et;if(!u)return;const D=u.getCurrentCode(),T=y.kind==="user"?((et=x.find(pt=>pt.id===y.id))==null?void 0:et.name)??"example":ga[y.chapter].examples[y.index].name,_=new Blob([D],{type:"text/x-rust"}),U=URL.createObjectURL(_),F=document.createElement("a");F.href=U,F.download=l9(T),document.body.appendChild(F),F.click(),F.remove(),setTimeout(()=>URL.revokeObjectURL(U),0)},W=Q.useRef(null),G=()=>{var D;(D=W.current)==null||D.click()},H=async D=>{var et;const T=(et=D.target.files)==null?void 0:et[0];if(D.target.value="",!T)return;const _=await T.text(),U=T.name.replace(/\.rs$/i,""),F={id:Pf(),name:r9(U,x),code:_};g([...x,F]),w({kind:"user",id:F.id}),u&&(u.setCurrentCode(_),Z())},nt=y.kind==="user",$=y.kind==="user";return S.jsxs("div",{className:"app-shell",children:[S.jsx(h9,{}),S.jsxs(Oh,{direction:"vertical",className:"main-split",autoSaveId:"rustviz-vertical",children:[S.jsx(Ba,{defaultSize:40,minSize:0,children:S.jsxs(Oh,{direction:"horizontal",autoSaveId:"rustviz-top-horizontal",children:[S.jsx(Ba,{defaultSize:f9?0:35,minSize:15,collapsible:!0,className:"panel description-panel",children:S.jsx(d9,{})}),S.jsx(bh,{className:"resize-handle resize-handle-vertical"}),S.jsxs(Ba,{defaultSize:65,minSize:25,className:"panel editor-panel",children:[S.jsxs("div",{className:"editor-toolbar",children:[S.jsx(g9,{selection:y,userExamples:x,onSelect:Y}),S.jsx("button",{className:"cm-button toolbar-icon-button",onClick:K,title:"Create a new example (saved in this browser)","aria-label":"Create a new example",children:"+"}),S.jsx("button",{className:"cm-button toolbar-icon-button",onClick:J,disabled:!nt,title:nt?"Rename this example":"Rename only works on examples you created","aria-label":"Rename this example",children:"✎"}),S.jsx("button",{className:"cm-button toolbar-icon-button",onClick:dt,disabled:!$,title:$?"Delete this example":"Delete only works on examples you created","aria-label":"Delete this example",children:S.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[S.jsx("polyline",{fill:"none",points:"3 6 5 6 21 6"}),S.jsx("path",{fill:"none",d:"M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"}),S.jsx("path",{fill:"none",d:"M10 11v6"}),S.jsx("path",{fill:"none",d:"M14 11v6"}),S.jsx("path",{fill:"none",d:"M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"})]})}),S.jsx("button",{className:"cm-button toolbar-icon-button",onClick:j,title:"Save current example as a .rs file","aria-label":"Save current example as a .rs file",children:S.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[S.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),S.jsx("polyline",{fill:"none",points:"7 10 12 15 17 10"}),S.jsx("line",{fill:"none",x1:"12",y1:"15",x2:"12",y2:"3"})]})}),S.jsx("button",{className:"cm-button toolbar-icon-button",onClick:G,title:"Load a .rs file as a new example","aria-label":"Load a .rs file as a new example",children:S.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[S.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),S.jsx("polyline",{fill:"none",points:"17 8 12 3 7 8"}),S.jsx("line",{fill:"none",x1:"12",y1:"3",x2:"12",y2:"15"})]})}),S.jsx("input",{ref:W,type:"file",accept:".rs,text/x-rust,text/plain",style:{display:"none"},onChange:H}),S.jsx("button",{className:"cm-button generate-button",onClick:Z,disabled:e,children:e?S.jsxs(S.Fragment,{children:["Generating",S.jsx("span",{className:"ellipsis"})]}):"Generate Visualization"})]}),M&&!q&&S.jsxs("div",{className:"storage-warning",role:"alert",children:[S.jsx("span",{children:"Your edits aren't being saved: this browser's storage for this site is full or disabled, so they will be lost when you reload. Use the download button to save a copy."}),S.jsx("button",{className:"storage-warning-dismiss",onClick:()=>X(!0),"aria-label":"Dismiss warning",title:"Dismiss",children:"×"})]}),S.jsx("div",{className:"editor-host",ref:E})]})]})}),S.jsx(bh,{className:"resize-handle resize-handle-horizontal"}),S.jsxs(Ba,{defaultSize:60,minSize:15,className:"panel viz-panel",children:[e&&S.jsxs("div",{className:"loading-status",children:[S.jsxs("p",{className:"loading-message",children:["Generating visualization",S.jsx("span",{className:"ellipsis"})]}),S.jsx("p",{className:"loading-note",children:"Dropdown examples and snippets you've rendered before are cached client-side and load instantly. This wait is only for novel code: the first compile after a quiet period takes a few extra seconds while the compile server wakes up; subsequent compiles are fast."})]}),n&&s?S.jsx(EP,{err_string:s,kind:l,code:i}):S.jsx("div",{className:"viz-content",children:S.jsxs("div",{className:"flex-container vis_block",children:[S.jsx("div",{className:"ex2 code_panel",dangerouslySetInnerHTML:{__html:p??""}}),S.jsx("div",{className:"ex2 tl_panel",style:{width:"auto"},dangerouslySetInnerHTML:{__html:d??""}})]})})]})]})]})},y9=Df.createRoot(document.getElementById("root"));y9.render(S.jsx(Gy.StrictMode,{children:S.jsx(m9,{})}));
-//# sourceMappingURL=index-DLZ0tch3.js.map
+//# sourceMappingURL=index-B8D5f-M8.js.map
