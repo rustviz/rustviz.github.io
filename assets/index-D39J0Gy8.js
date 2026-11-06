@@ -461,7 +461,7 @@ fn main() {
     if let Some(x) = opt {
         read(x);
     }
-}`}]}],WP="35e36a87ef517c87",NP="2.0.0+nightly-2026-05-01+5bf1a0cb1e7e7476",LP={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+}`}]}],WP="fd80a1a1865af902",NP="2.0.0+nightly-2026-05-01+859531bae9135f95",LP={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -849,14 +849,14 @@ fn main() {
         monospace, monospace !important;&quot;&gt;s&lt;/span&gt; is the owner of the resource" style="opacity: 1.0; stroke-dasharray: none;"/>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;r1&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;r1&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="4" class="hollow" x1="158.25" y1="205.0" x2="158.25" y2="265.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="4" class="hollow" x1="161.75" y1="205.0" x2="161.75" y2="265.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="4" points="158.25,205.0 158.25,265.0 161.75,265.0 161.75,205.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;r2&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;r2&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="5" class="hollow" x1="248.25" y1="235.0" x2="248.25" y2="265.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="5" class="hollow" x1="251.75" y1="235.0" x2="251.75" y2="265.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="5" points="248.25,235.0 248.25,265.0 251.75,265.0 251.75,235.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -5075,7 +5075,7 @@ fn main() {
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;s&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;s&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="5" class="hollow" x1="88.25" y1="265.0" x2="88.25" y2="295.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="5" class="hollow" x1="91.75" y1="265.0" x2="91.75" y2="295.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="5" points="88.25,265.0 88.25,295.0 91.75,295.0 91.75,265.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -5620,13 +5620,13 @@ fn main() {
         <circle cx="140" cy="145" r="5" data-hash="4" class="tooltip-trigger" data-tooltip-text="len1 is initialized by copy from String::len"/>
         <g class="tooltip-trigger" data-tooltip-text="• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;len1&lt;/span&gt;'s resource is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
+        monospace, monospace !important;&quot;&gt;len1&lt;/span&gt;'s value is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;println!&lt;/span&gt;; &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;len1&lt;/span&gt; is read-only while the borrow is live&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;println!&lt;/span&gt; reads from &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;len1&lt;/span&gt; through an implicit reference, so &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;len1&lt;/span&gt; isn't moved&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;len1&lt;/span&gt;'s resource is no longer immutably borrowed">
+        monospace, monospace !important;&quot;&gt;len1&lt;/span&gt;'s value is no longer immutably borrowed">
             <circle cx="140" cy="205" r="5" data-hash="4"/>
             <use xlink:href="#functionDot" data-hash="4" x="140" y="205"/>
         </g>
@@ -5636,13 +5636,13 @@ fn main() {
         <circle cx="210" cy="175" r="5" data-hash="6" class="tooltip-trigger" data-tooltip-text="len2 is initialized by copy from len"/>
         <g class="tooltip-trigger" data-tooltip-text="• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;len2&lt;/span&gt;'s resource is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
+        monospace, monospace !important;&quot;&gt;len2&lt;/span&gt;'s value is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;println!&lt;/span&gt;; &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;len2&lt;/span&gt; is read-only while the borrow is live&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;println!&lt;/span&gt; reads from &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;len2&lt;/span&gt; through an implicit reference, so &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;len2&lt;/span&gt; isn't moved&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;len2&lt;/span&gt;'s resource is no longer immutably borrowed">
+        monospace, monospace !important;&quot;&gt;len2&lt;/span&gt;'s value is no longer immutably borrowed">
             <circle cx="210" cy="205" r="5" data-hash="6"/>
             <use xlink:href="#functionDot" data-hash="6" x="210" y="205"/>
         </g>
@@ -6080,28 +6080,28 @@ fn main() {
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;y&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;y&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="3" class="hollow" x1="158.25" y1="145.0" x2="158.25" y2="205.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="3" class="hollow" x1="161.75" y1="145.0" x2="161.75" y2="205.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="3" points="158.25,145.0 158.25,205.0 161.75,205.0 161.75,145.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;z&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;z&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="4" class="hollow" x1="248.25" y1="175.0" x2="248.25" y2="205.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="4" class="hollow" x1="251.75" y1="175.0" x2="251.75" y2="205.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="4" points="248.25,175.0 248.25,205.0 251.75,205.0 251.75,175.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;s1&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;s1&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="6" class="hollow" x1="88.25" y1="325.0" x2="88.25" y2="355.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="6" class="hollow" x1="91.75" y1="325.0" x2="91.75" y2="355.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="6" points="88.25,325.0 88.25,355.0 91.75,355.0 91.75,325.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;s2&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;s2&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="7" class="hollow" x1="178.25" y1="325.0" x2="178.25" y2="355.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="7" class="hollow" x1="181.75" y1="325.0" x2="181.75" y2="355.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="7" points="178.25,325.0 178.25,355.0 181.75,355.0 181.75,325.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -7723,7 +7723,7 @@ fn main() {
     <g id="timelines">
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;rect&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;rect&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="8" class="hollow" x1="88.25" y1="655.0" x2="88.25" y2="685.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="8" class="hollow" x1="91.75" y1="655.0" x2="91.75" y2="685.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="8" points="88.25,655.0 88.25,685.0 91.75,685.0 91.75,655.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -7861,13 +7861,13 @@ fn main() {
         monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt; is bound to a copyable value"/>
         <g class="tooltip-trigger" data-tooltip-text="• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt;'s resource is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
+        monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt;'s value is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;println!&lt;/span&gt;; &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt; is read-only while the borrow is live&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;println!&lt;/span&gt; reads from &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt; through an implicit reference, so &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt; isn't moved&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt;'s resource is no longer immutably borrowed">
+        monospace, monospace !important;&quot;&gt;r.h&lt;/span&gt;'s value is no longer immutably borrowed">
             <circle cx="210" cy="565" r="5" data-hash="5"/>
             <use xlink:href="#functionDot" data-hash="5" x="210" y="565"/>
         </g>
@@ -8267,14 +8267,14 @@ fn main() {
     <g id="timelines">
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;self&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;self&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="3" class="hollow" x1="88.25" y1="265.0" x2="88.25" y2="295.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="3" class="hollow" x1="91.75" y1="265.0" x2="91.75" y2="295.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="3" points="88.25,265.0 88.25,295.0 91.75,295.0 91.75,265.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;rect&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;rect&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="4" class="hollow" x1="88.25" y1="415.0" x2="88.25" y2="505.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="4" class="hollow" x1="91.75" y1="415.0" x2="91.75" y2="505.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="4" points="88.25,415.0 88.25,505.0 91.75,505.0 91.75,415.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -8930,13 +8930,13 @@ fn main() {
         monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt; is bound to a copyable value"/>
         <g class="tooltip-trigger" data-tooltip-text="• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt;'s resource is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
+        monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt;'s value is immutably borrowed by &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;println!&lt;/span&gt;; &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt; is read-only while the borrow is live&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;println!&lt;/span&gt; reads from &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt; through an implicit reference, so &lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt; isn't moved&lt;br&gt;• &lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt;'s resource is no longer immutably borrowed">
+        monospace, monospace !important;&quot;&gt;f.x&lt;/span&gt;'s value is no longer immutably borrowed">
             <circle cx="210" cy="325" r="5" data-hash="6"/>
             <use xlink:href="#functionDot" data-hash="6" x="210" y="325"/>
         </g>
@@ -9362,7 +9362,7 @@ fn main() {
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;first&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;first&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="7" class="hollow" x1="158.25" y1="265.0" x2="158.25" y2="355.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="7" class="hollow" x1="161.75" y1="265.0" x2="161.75" y2="355.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="7" points="158.25,265.0 158.25,355.0 161.75,355.0 161.75,265.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -9490,7 +9490,7 @@ fn main() {
     <g id="timelines">
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;i.p&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;i.p&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="9" class="hollow" x1="318.25" y1="325.0" x2="318.25" y2="445.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="9" class="hollow" x1="321.75" y1="325.0" x2="321.75" y2="445.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="9" points="318.25,325.0 318.25,445.0 321.75,445.0 321.75,325.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -17042,7 +17042,7 @@ fn main() {
     <g id="timelines">
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;s&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;s&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="1" class="hollow" x1="88.25" y1="85.0" x2="88.25" y2="115.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="1" class="hollow" x1="91.75" y1="85.0" x2="91.75" y2="115.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="1" points="88.25,85.0 88.25,115.0 91.75,115.0 91.75,85.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -17070,7 +17070,7 @@ fn main() {
         </g>
 <g class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;w&lt;/span&gt;'s resource is being shared by one or more variables">
+        monospace, monospace !important;&quot;&gt;w&lt;/span&gt; holds an immutable reference; it can read the borrowed resource">
             <line data-hash="5" class="hollow" x1="158.25" y1="265.0" x2="158.25" y2="295.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <line data-hash="5" class="hollow" x1="161.75" y1="265.0" x2="161.75" y2="295.0" style="stroke-opacity: 1.0; stroke-dasharray: none;"/>
             <polygon data-hash="5" points="158.25,265.0 158.25,295.0 161.75,295.0 161.75,265.0" style="fill:transparent; stroke:none; pointer-events:fill;"/>
@@ -17988,7 +17988,7 @@ fn main() {
         monospace, monospace !important;&quot;&gt;_n&lt;/span&gt; goes out of scope"/>
         <circle cx="70" cy="205" r="5" data-hash="2" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;i&lt;/span&gt;'s resource is copied"/>
+        monospace, monospace !important;&quot;&gt;i&lt;/span&gt;'s value is copied"/>
         <text x="35" y="210" data-hash="3" class="functionLogo tooltip-trigger fn-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro', Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono', monospace, monospace !important;&quot;&gt;read&lt;/span&gt;">f</text>
     </g>
 
@@ -18407,7 +18407,7 @@ fn main() {
         monospace, monospace !important;&quot;&gt;n&lt;/span&gt; is bound to a copyable value"/>
         <circle cx="70" cy="235" r="5" data-hash="2" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;n&lt;/span&gt;'s resource is copied"/>
+        monospace, monospace !important;&quot;&gt;n&lt;/span&gt;'s value is copied"/>
         <circle cx="70" cy="265" r="5" data-hash="2" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;n&lt;/span&gt; is assigned a new value"/>
@@ -19296,7 +19296,7 @@ fn main() {
         monospace, monospace !important;&quot;&gt;n&lt;/span&gt; is bound to a copyable value"/>
         <circle cx="70" cy="235" r="5" data-hash="2" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;n&lt;/span&gt;'s resource is copied"/>
+        monospace, monospace !important;&quot;&gt;n&lt;/span&gt;'s value is copied"/>
         <circle cx="70" cy="265" r="5" data-hash="2" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;n&lt;/span&gt; is assigned a new value"/>
@@ -19728,13 +19728,13 @@ fn main() {
         monospace, monospace !important;&quot;&gt;n&lt;/span&gt; is assigned a new value"/>
         <circle cx="70" cy="295" r="5" data-hash="2" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;n&lt;/span&gt;'s resource is copied"/>
+        monospace, monospace !important;&quot;&gt;n&lt;/span&gt;'s value is copied"/>
         <circle cx="70" cy="415" r="5" data-hash="2" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;n&lt;/span&gt; goes out of scope"/>
         <circle cx="140" cy="385" r="5" data-hash="4" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;result&lt;/span&gt;'s resource is copied"/>
+        monospace, monospace !important;&quot;&gt;result&lt;/span&gt;'s value is copied"/>
         <circle cx="140" cy="415" r="5" data-hash="4" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;result&lt;/span&gt; goes out of scope. No resource is dropped."/>
@@ -20170,14 +20170,14 @@ fn main() {
         <circle cx="70" cy="175" r="5" data-hash="3" class="tooltip-trigger" data-tooltip-text="opt is initialized by copy from Some"/>
         <circle cx="70" cy="205" r="5" data-hash="3" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;opt&lt;/span&gt;'s resource is copied"/>
+        monospace, monospace !important;&quot;&gt;opt&lt;/span&gt;'s value is copied"/>
         <circle cx="70" cy="295" r="5" data-hash="3" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;opt&lt;/span&gt; goes out of scope"/>
         <circle cx="140" cy="205" r="5" data-hash="4" class="tooltip-trigger" data-tooltip-text="x is initialized by copy from opt"/>
         <circle cx="140" cy="235" r="5" data-hash="4" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
-        monospace, monospace !important;&quot;&gt;x&lt;/span&gt;'s resource is copied"/>
+        monospace, monospace !important;&quot;&gt;x&lt;/span&gt;'s value is copied"/>
         <circle cx="140" cy="265" r="5" data-hash="4" class="tooltip-trigger" data-tooltip-text="&lt;span style=&quot;font-family: 'Source Code Pro',
         Consolas, 'Ubuntu Mono', Menlo, 'DejaVu Sans Mono',
         monospace, monospace !important;&quot;&gt;x&lt;/span&gt; goes out of scope"/>
@@ -20227,4 +20227,4 @@ fn main() {
 
 }
 `;function Ty(){try{const e=localStorage.getItem(KO);if(!e)return[];const t=JSON.parse(e);return Array.isArray(t)?t.filter(n=>typeof(n==null?void 0:n.id)=="string"&&typeof(n==null?void 0:n.name)=="string"&&typeof(n==null?void 0:n.code)=="string"):[]}catch{return[]}}function e9(e){return ZO(KO,JSON.stringify(e))}function n9(e){try{const t=localStorage.getItem(JO);if(!t)return kh;const n=JSON.parse(t);if((n==null?void 0:n.kind)==="preloaded"&&typeof n.chapter=="number"&&typeof n.index=="number"){const o=ga[n.chapter];if(o&&o.examples[n.index])return n}if((n==null?void 0:n.kind)==="user"&&typeof n.id=="string"&&e.some(o=>o.id===n.id))return n}catch{}return kh}function o9(e){ZO(JO,JSON.stringify(e))}function Cf(e,t){if(e.kind==="user"){const n=t.find(o=>o.id===e.id);return n?n.code:ga[0].examples[0].code}return ga[e.chapter].examples[e.index].code}function Pf(){return typeof crypto<"u"&&typeof crypto.randomUUID=="function"?crypto.randomUUID():Math.random().toString(36).slice(2,10)+Date.now().toString(36)}function s9(e){let t=0;for(const n of e){const o=/^New example (\d+)$/.exec(n.name);if(o){const s=parseInt(o[1],10);s>t&&(t=s)}}return`New example ${t+1}`}function a9(e,t){const n=new Set(t.map(s=>s.name)),o=`${e} (copy)`;if(!n.has(o))return o;for(let s=2;;s++){const a=`${e} (copy ${s})`;if(!n.has(a))return a}}function l9(e){return(e.replace(/[<>:"/\\|?*\x00-\x1f]+/g,"").replace(/\s+/g," ").replace(/^[\s.]+|[\s.]+$/g,"")||"example")+".rs"}function r9(e,t){const n=e.trim()||"Imported example",o=new Set(t.map(s=>s.name));if(!o.has(n))return n;for(let s=2;;s++){const a=`${n} (${s})`;if(!o.has(a))return a}}function qf(e){return e.kind==="user"?`user:${e.id}`:`preloaded:${e.chapter}:${e.index}`}function i9(e){if(e.startsWith("user:"))return{kind:"user",id:e.slice(5)};if(e.startsWith("preloaded:")){const[t,n]=e.slice(10).split(":").map(Number);if(!Number.isNaN(t)&&!Number.isNaN(n))return{kind:"preloaded",chapter:t,index:n}}return null}const c9="https://rustviz-api-816769776225.us-central1.run.app",u9=768,f9=typeof window<"u"&&typeof window.matchMedia=="function"&&window.matchMedia(`(max-width: ${u9}px)`).matches;class p9{constructor(t,n,o){hu(this,"view");hu(this,"programmatic",!1);const s=B.updateListener.of(l=>{l.docChanged&&(this.programmatic||o(l.state.doc.toString()))}),a=ct.create({doc:n,extensions:[...q7,s]});this.view=new B({state:a,parent:t})}getCurrentCode(){return this.view.state.doc.toString()}setCurrentCode(t){if(t!==this.view.state.doc.toString()){this.programmatic=!0;try{this.view.dispatch({changes:{from:0,to:this.view.state.doc.length,insert:t}})}finally{this.programmatic=!1}}}destroy(){this.view.destroy()}}const h9=()=>{const e=Q.useRef(null);return Q.useEffect(()=>{const t=n=>{var o;(o=e.current)!=null&&o.open&&!e.current.contains(n.target)&&(e.current.open=!1)};return document.addEventListener("mousedown",t),()=>document.removeEventListener("mousedown",t)},[]),M.jsxs("header",{className:"titlebar",children:[M.jsxs("div",{className:"titlebar-left",children:[M.jsxs("h1",{className:"titlebar-title",children:[M.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","Playground"]}),M.jsx("a",{className:"titlebar-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",title:"Open the RustViz tutorial in a new tab",children:"New to Rust? Read our visual tutorial →"})]}),M.jsxs("div",{className:"titlebar-meta",children:[M.jsxs("code",{className:"titlebar-version",children:["rustc ","nightly-2026-05-01"]}),M.jsxs("code",{className:"titlebar-version",children:["rustviz-plugin ","2.0.0"]}),M.jsxs("details",{ref:e,className:"titlebar-overflow",children:[M.jsx("summary",{className:"titlebar-overflow-trigger","aria-label":"More",title:"More",children:"⋯"}),M.jsxs("div",{className:"titlebar-overflow-popover",role:"menu",children:[M.jsx("a",{className:"titlebar-overflow-item titlebar-overflow-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",role:"menuitem",children:"Read our visual tutorial →"}),M.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustc ","nightly-2026-05-01"]}),M.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustviz-plugin ","2.0.0"]})]})]}),M.jsx("a",{className:"titlebar-stars",href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",title:"Star us on GitHub",children:M.jsx("img",{src:"https://img.shields.io/github/stars/rustviz/rustviz?style=social&label=Star",alt:"GitHub stars",height:20})})]})]})},d9=()=>M.jsxs("div",{className:"description",children:[M.jsxs("p",{children:["Welcome!"," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","is a tool to visualize an approximation of the compile-time reasoning of"," ",M.jsx("a",{href:"https://www.rust-lang.org/",target:"_blank",rel:"noreferrer",children:"Rust's"})," ","borrow checker."]}),M.jsxs("p",{children:["Try it out by writing a Rust program in the editor on the right, then clicking the ",M.jsx("strong",{children:"Generate Visualization"})," button. The diagram appears in the bottom panel."]}),M.jsx("h3",{children:"Annotation markers"}),M.jsx("p",{children:"You can keep individual items out of the visualization with comment markers:"}),M.jsxs("ul",{children:[M.jsxs("li",{children:[M.jsx("code",{children:"// rustviz: skip"})," on a ",M.jsx("code",{children:"let"})," or ",M.jsx("code",{children:"fn"})," line — the item stays in the source but is omitted from the trace."]}),M.jsxs("li",{children:[M.jsx("code",{children:"// rustviz: hide"})," on a ",M.jsx("code",{children:"fn"})," line — additionally removes the entire fn from the rendered code panel; call sites still draw their arrows."]})]}),M.jsx("h3",{children:"Known limitations"}),M.jsx("p",{children:`RustViz is a research tool. It only visualizes programs that compile (code with a borrow-checker error is rejected with rustc's message), and it handles a subset of Rust. When your program compiles but uses something RustViz can't handle, you'll see "RustViz can't visualize this program yet" with a link to report it. In particular:`}),M.jsxs("p",{children:[M.jsx("strong",{children:"Some of what's drawn is wrong"}),", so don't rely on it for:"]}),M.jsxs("ul",{children:[M.jsxs("li",{children:["Functions that return a reference (e.g. ",M.jsx("code",{children:"first_word"}),","," ",M.jsx("code",{children:"longest"}),"): the result isn't linked to what it borrows."]}),M.jsxs("li",{children:["A variable assigned in only some branches of an ",M.jsx("code",{children:"if"})," is drawn as owning a value afterwards; Rust treats it as possibly uninitialized."]}),M.jsxs("li",{children:["Shadowed variables (",M.jsx("code",{children:"let x"})," twice) share one column;"," ","tuples (",M.jsx("code",{children:"let t = (…)"}),", ",M.jsx("code",{children:"t.0"}),") show no events;"," ",M.jsx("code",{children:"Rc"})," clones each appear to drop the value."]})]}),M.jsxs("p",{children:[M.jsx("strong",{children:"Some valid programs crash the visualizer"}),` (you'll see "RustViz can't visualize this program yet"). We track the ones we know about as`," ",M.jsxs("a",{href:"https://github.com/rustviz/rustviz/issues?q=is%3Aissue+is%3Aopen+label%3Acrash",target:"_blank",rel:"noreferrer",children:["issues labelled ",M.jsx("code",{children:"crash"})]}),"."]}),M.jsx("p",{children:M.jsx("strong",{children:"Simplified or not shown:"})}),M.jsxs("ul",{children:[M.jsxs("li",{children:["Loops show one iteration (and a loop variable like"," ",M.jsx("code",{children:"for c in s.chars()"})," has no start or end); closures show their captures but not their bodies (for a closure passed straight to a function, only what it moves or copies in); method chains show only the first call; a match guard's events appear only in its own arm; ",M.jsx("code",{children:"async"}),"/",M.jsx("code",{children:"await"})," and your own macros aren't visualized."]}),M.jsxs("li",{children:["Writes to a field through a reference (",M.jsx("code",{children:"self.n += 1"})," in a"," ",M.jsx("code",{children:"&mut self"})," method) or to ",M.jsx("code",{children:"v[i]"})," aren't drawn."]}),M.jsxs("li",{children:["Smart pointers (",M.jsx("code",{children:"Box"}),", ",M.jsx("code",{children:"Rc"}),", ",M.jsx("code",{children:"RefCell"}),") and unions are drawn as a single owner; a write through"," ",M.jsx("code",{children:"*cell.borrow_mut()"})," shows only the call, not the write."]})]}),M.jsxs("p",{children:["If you find an example that exposes a bug, please open an issue on the"," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz/issues",target:"_blank",rel:"noreferrer",children:"repo"})," ","with the snippet and error message."]}),M.jsx("h3",{children:"Presentation mode"}),M.jsx("p",{children:"The three panels are independently resizable, so you can stage a clean presentation view by:"}),M.jsxs("ul",{children:[M.jsx("li",{children:"Dragging the vertical handle to the left edge to hide this info panel."}),M.jsx("li",{children:"Dragging the horizontal handle up to hide the editor entirely, or most of the way up to leave just the example-picker toolbar visible for switching snippets live."})]}),M.jsx("h3",{children:"Other ways to use RustViz"}),M.jsx("p",{children:"Besides this playground, RustViz ships as:"}),M.jsxs("ul",{children:[M.jsxs("li",{children:["an mdBook preprocessor — for embedding visualizations in a book, like our"," ",M.jsx("a",{href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",children:"visual Rust tutorial"})]}),M.jsxs("li",{children:["a ",M.jsx("code",{children:"rustviz"})," command-line tool — one-shot rendering of a ",M.jsx("code",{children:".rs"})," file to SVG or self-contained HTML"]}),M.jsx("li",{children:"a Rust library — for programmatic use"})]}),M.jsxs("p",{children:["Setup and usage for all of them are in the"," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",children:"GitHub repo"}),"."]}),M.jsx("h3",{children:"Credits"}),M.jsxs("p",{children:["RustViz is a project of the"," ",M.jsx("a",{href:"https://web.eecs.umich.edu/~comar/",target:"_blank",rel:"noreferrer",children:"Future of Programming Lab"})," ","at the University of Michigan. The plugin is built on"," ",M.jsxs("a",{href:"https://github.com/cognitive-engineering-lab/rustc_plugin",target:"_blank",rel:"noreferrer",children:[M.jsx("code",{children:"rustc_plugin"})," / ",M.jsx("code",{children:"rustc_utils"})]})," ","by"," ",M.jsx("a",{href:"https://willcrichton.net/",target:"_blank",rel:"noreferrer",children:"Will Crichton"}),", and ports several MIR / borrow-fact helpers from"," ",M.jsx("a",{href:"https://github.com/cognitive-engineering-lab/aquascope",target:"_blank",rel:"noreferrer",children:"Aquascope"})," ","(another visualization tool for Rust) by"," ",M.jsx("a",{href:"https://gavinleroy.com/",target:"_blank",rel:"noreferrer",children:"Gavin Gray"}),". RustViz is an independent academic project and has no formal affiliation with the Rust project or the Rust Foundation."]}),M.jsx("h3",{children:"Research paper"}),M.jsx("p",{children:"An earlier version of RustViz used hand-written visualization directives in source comments and was deployed in classroom teaching at the University of Michigan. That version is described in our VL/HCC 2022 paper:"}),M.jsxs("p",{className:"citation",children:["Marcelo Almeida, Grant Cole, Ke Du, Gongming Luo, Shulin Pan, Yu Pan, Kai Qiu, Vishnu Reddy, Haochen Zhang, Yingying Zhu, and Cyrus Omar."," ",M.jsx("a",{href:"https://web.eecs.umich.edu/~comar/rustviz-vlhcc22.pdf",target:"_blank",rel:"noreferrer",children:"RustViz: Interactively Visualizing Ownership and Borrowing"}),". In ",M.jsx("em",{children:"2022 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)"}),", pages 1–10, 2022."," ",M.jsx("a",{href:"https://github.com/rustviz/rustviz/blob/main/rustviz.bib",target:"_blank",rel:"noreferrer",children:"BibTeX"}),"."]})]}),g9=({selection:e,userExamples:t,onSelect:n})=>{const o=s=>{const a=i9(s.target.value);a&&n(a)};return M.jsxs("div",{className:"example-picker",children:[M.jsx("label",{htmlFor:"example-select",children:"Example:"}),M.jsxs("select",{id:"example-select",value:qf(e),onChange:o,children:[t.length>0&&M.jsx("optgroup",{label:"Your examples",children:t.map(s=>M.jsx("option",{value:qf({kind:"user",id:s.id}),children:s.name},s.id))}),ga.map((s,a)=>M.jsx("optgroup",{label:s.chapter,children:s.examples.map((l,r)=>M.jsx("option",{value:qf({kind:"preloaded",chapter:a,index:r}),children:l.name},l.name))},s.chapter))]})]})},m9=()=>{const[e,t]=Q.useState(!1),[n,o]=Q.useState(!1),[s,a]=Q.useState(null),[l,r]=Q.useState(null),[i,c]=Q.useState(""),[u,f]=Q.useState(null),[p,h]=Q.useState(null),[d,m]=Q.useState(null),[x,g]=Q.useState(()=>Ty()),[y,w]=Q.useState(()=>n9(Ty())),O=Q.useRef(y),S=Q.useRef(x);Q.useEffect(()=>{O.current=y},[y]),Q.useEffect(()=>{S.current=x},[x]);const[k,b]=Q.useState(!1),[q,X]=Q.useState(!1);Q.useEffect(()=>{const D=e9(x);b(!D),D&&X(!1)},[x]),Q.useEffect(()=>{o9(y)},[y]);const z=D=>{const T=O.current,_=S.current;if(T.kind==="user"){const et=_.map(pt=>pt.id===T.id?{...pt,code:D}:pt);g(et);return}const U=ga[T.chapter].examples[T.index].name,F={id:Pf(),name:a9(U,_),code:D};g([..._,F]),w({kind:"user",id:F.id})},E=Q.useRef(null);Q.useEffect(()=>{if(!E.current)return;const D=Cf(y,x),T=new p9(E.current,D,z);return f(T),()=>{T.destroy(),f(null)}},[]);const V=Q.useRef(null),Z=async()=>{var U,F;if(!u)return;(U=V.current)==null||U.abort();const D=new AbortController;V.current=D;const T=t9(u.getCurrentCode()),_=await KP(T);if(_){if(V.current!==D)return;h(_.code_panel),m(_.timeline_panel),o(!1),t(!1);return}t(!0);try{const et=await vt.post(`${c9}/submit-code`,{code:T},{signal:D.signal});if(V.current!==D)return;et.status===200?(h(et.data.code_panel),m(et.data.timeline_panel),o(!1),JP(T,{code_panel:et.data.code_panel,timeline_panel:et.data.timeline_panel})):(console.error("Error:",et.statusText),a(String(et.data)),r(null),c(T),o(!0))}catch(et){if(vt.isCancel(et)||D.signal.aborted||V.current!==D)return;if(vt.isAxiosError(et)&&et.response){const pt=et.response.data;a(typeof pt=="string"?pt:JSON.stringify(pt));const qe=(F=et.response.headers)==null?void 0:F["x-rustviz-error-kind"];r(typeof qe=="string"?qe:null)}else a("An unexpected error occurred"),r(null);c(T),console.error("An error occurred:",et),o(!0)}finally{V.current===D&&t(!1)}};Q.useEffect(()=>{Z()},[u]),Q.useEffect(()=>{helpers("ex2")},[p,d]);const Y=D=>{w(D),u&&(u.setCurrentCode(Cf(D,x)),Z())},K=()=>{const D={id:Pf(),name:s9(x),code:_y};g([...x,D]),w({kind:"user",id:D.id}),u&&(u.setCurrentCode(_y),Z())},J=()=>{if(y.kind!=="user")return;const D=x.find(U=>U.id===y.id);if(!D)return;const T=window.prompt("Rename example:",D.name);if(T===null)return;const _=T.trim();!_||_===D.name||g(x.map(U=>U.id===D.id?{...U,name:_}:U))},dt=()=>{if(y.kind!=="user")return;const D=x.findIndex(F=>F.id===y.id);if(D<0)return;const T=x[D];if(!window.confirm(`Delete "${T.name}"? This can't be undone.`))return;const _=x.filter(F=>F.id!==T.id);let U;if(_.length>0){const F=Math.min(D,_.length-1);U={kind:"user",id:_[F].id}}else U=kh;g(_),w(U),u&&(u.setCurrentCode(Cf(U,_)),Z())},j=()=>{var et;if(!u)return;const D=u.getCurrentCode(),T=y.kind==="user"?((et=x.find(pt=>pt.id===y.id))==null?void 0:et.name)??"example":ga[y.chapter].examples[y.index].name,_=new Blob([D],{type:"text/x-rust"}),U=URL.createObjectURL(_),F=document.createElement("a");F.href=U,F.download=l9(T),document.body.appendChild(F),F.click(),F.remove(),setTimeout(()=>URL.revokeObjectURL(U),0)},W=Q.useRef(null),G=()=>{var D;(D=W.current)==null||D.click()},H=async D=>{var et;const T=(et=D.target.files)==null?void 0:et[0];if(D.target.value="",!T)return;const _=await T.text(),U=T.name.replace(/\.rs$/i,""),F={id:Pf(),name:r9(U,x),code:_};g([...x,F]),w({kind:"user",id:F.id}),u&&(u.setCurrentCode(_),Z())},nt=y.kind==="user",$=y.kind==="user";return M.jsxs("div",{className:"app-shell",children:[M.jsx(h9,{}),M.jsxs(Oh,{direction:"vertical",className:"main-split",autoSaveId:"rustviz-vertical",children:[M.jsx(Ba,{defaultSize:40,minSize:0,children:M.jsxs(Oh,{direction:"horizontal",autoSaveId:"rustviz-top-horizontal",children:[M.jsx(Ba,{defaultSize:f9?0:35,minSize:15,collapsible:!0,className:"panel description-panel",children:M.jsx(d9,{})}),M.jsx(bh,{className:"resize-handle resize-handle-vertical"}),M.jsxs(Ba,{defaultSize:65,minSize:25,className:"panel editor-panel",children:[M.jsxs("div",{className:"editor-toolbar",children:[M.jsx(g9,{selection:y,userExamples:x,onSelect:Y}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:K,title:"Create a new example (saved in this browser)","aria-label":"Create a new example",children:"+"}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:J,disabled:!nt,title:nt?"Rename this example":"Rename only works on examples you created","aria-label":"Rename this example",children:"✎"}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:dt,disabled:!$,title:$?"Delete this example":"Delete only works on examples you created","aria-label":"Delete this example",children:M.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[M.jsx("polyline",{fill:"none",points:"3 6 5 6 21 6"}),M.jsx("path",{fill:"none",d:"M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"}),M.jsx("path",{fill:"none",d:"M10 11v6"}),M.jsx("path",{fill:"none",d:"M14 11v6"}),M.jsx("path",{fill:"none",d:"M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"})]})}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:j,title:"Save current example as a .rs file","aria-label":"Save current example as a .rs file",children:M.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[M.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),M.jsx("polyline",{fill:"none",points:"7 10 12 15 17 10"}),M.jsx("line",{fill:"none",x1:"12",y1:"15",x2:"12",y2:"3"})]})}),M.jsx("button",{className:"cm-button toolbar-icon-button",onClick:G,title:"Load a .rs file as a new example","aria-label":"Load a .rs file as a new example",children:M.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[M.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),M.jsx("polyline",{fill:"none",points:"17 8 12 3 7 8"}),M.jsx("line",{fill:"none",x1:"12",y1:"3",x2:"12",y2:"15"})]})}),M.jsx("input",{ref:W,type:"file",accept:".rs,text/x-rust,text/plain",style:{display:"none"},onChange:H}),M.jsx("button",{className:"cm-button generate-button",onClick:Z,disabled:e,children:e?M.jsxs(M.Fragment,{children:["Generating",M.jsx("span",{className:"ellipsis"})]}):"Generate Visualization"})]}),k&&!q&&M.jsxs("div",{className:"storage-warning",role:"alert",children:[M.jsx("span",{children:"Your edits aren't being saved: this browser's storage for this site is full or disabled, so they will be lost when you reload. Use the download button to save a copy."}),M.jsx("button",{className:"storage-warning-dismiss",onClick:()=>X(!0),"aria-label":"Dismiss warning",title:"Dismiss",children:"×"})]}),M.jsx("div",{className:"editor-host",ref:E})]})]})}),M.jsx(bh,{className:"resize-handle resize-handle-horizontal"}),M.jsxs(Ba,{defaultSize:60,minSize:15,className:"panel viz-panel",children:[e&&M.jsxs("div",{className:"loading-status",children:[M.jsxs("p",{className:"loading-message",children:["Generating visualization",M.jsx("span",{className:"ellipsis"})]}),M.jsx("p",{className:"loading-note",children:"Dropdown examples and snippets you've rendered before are cached client-side and load instantly. This wait is only for novel code: the first compile after a quiet period takes a few extra seconds while the compile server wakes up; subsequent compiles are fast."})]}),n&&s?M.jsx(EP,{err_string:s,kind:l,code:i}):M.jsx("div",{className:"viz-content",children:M.jsxs("div",{className:"flex-container vis_block",children:[M.jsx("div",{className:"ex2 code_panel",dangerouslySetInnerHTML:{__html:p??""}}),M.jsx("div",{className:"ex2 tl_panel",style:{width:"auto"},dangerouslySetInnerHTML:{__html:d??""}})]})})]})]})]})},y9=Df.createRoot(document.getElementById("root"));y9.render(M.jsx(Gy.StrictMode,{children:M.jsx(m9,{})}));
-//# sourceMappingURL=index-BYx6ZWOn.js.map
+//# sourceMappingURL=index-D39J0Gy8.js.map
