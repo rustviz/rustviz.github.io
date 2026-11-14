@@ -421,7 +421,7 @@ fn main() {
         println!("{}", s);
     });
     handle.join().unwrap();
-}`}]}],WP="fced0a8e4fae189e",NP="2.0.0+nightly-2026-05-01+211922cabb1aa6b2",LP={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+}`}]}],WP="c6f1414d8ecfbbf1",NP="2.0.0+nightly-2026-05-01+1a819571ff303bd1",LP={"6d0c2df0f6cb72a8ff0319647d9a2539ea3e2b2a522b2d60e7193460b77dbf76":{code_panel:`<svg width="400px" height="415px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -593,7 +593,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="440px" height="490px" 
+</svg>`,timeline_panel:`<svg width="440px" height="415px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -904,7 +904,7 @@ fn main() {
 	</g>
     
 
-</svg>`},a08c8059f2a63aac1c7c03269057a9bebe0ec2edd6313ba02d1ac89e961da48c:{code_panel:`<svg width="400px" height="280px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a08c8059f2a63aac1c7c03269057a9bebe0ec2edd6313ba02d1ac89e961da48c:{code_panel:`<svg width="400px" height="205px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -1069,7 +1069,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="200px" height="280px" 
+</svg>`,timeline_panel:`<svg width="200px" height="205px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -1318,7 +1318,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"077c14e78ebd1c3050313e95d0b6ef97ddebe88eb735566df38308d4b7799fd9":{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"077c14e78ebd1c3050313e95d0b6ef97ddebe88eb735566df38308d4b7799fd9":{code_panel:`<svg width="400px" height="235px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -1484,7 +1484,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="310px" 
+</svg>`,timeline_panel:`<svg width="240px" height="235px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -1746,7 +1746,7 @@ fn main() {
 	</g>
     
 
-</svg>`},e806984c3ad112f9a778efdbc3f58002033533afb22532c8843ef70f271c0b72:{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},e806984c3ad112f9a778efdbc3f58002033533afb22532c8843ef70f271c0b72:{code_panel:`<svg width="400px" height="355px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -1916,7 +1916,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="310px" height="430px" 
+</svg>`,timeline_panel:`<svg width="310px" height="355px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -2180,7 +2180,7 @@ fn main() {
 	</g>
     
 
-</svg>`},e3e26e27d962e3769c6e463684027412f6082c2eb5db2ef99287c8f32de6ec59:{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},e3e26e27d962e3769c6e463684027412f6082c2eb5db2ef99287c8f32de6ec59:{code_panel:`<svg width="400px" height="235px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -2346,7 +2346,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="310px" 
+</svg>`,timeline_panel:`<svg width="240px" height="235px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -2604,7 +2604,7 @@ fn main() {
 	</g>
     
 
-</svg>`},dc3e8707f4e63c989023311bf9f60d4a47b9a643683191ec1740e6d97b55bcbf:{code_panel:`<svg width="490px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},dc3e8707f4e63c989023311bf9f60d4a47b9a643683191ec1740e6d97b55bcbf:{code_panel:`<svg width="490px" height="355px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -2774,7 +2774,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="230px" height="430px" 
+</svg>`,timeline_panel:`<svg width="230px" height="355px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -3041,7 +3041,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"76b4457e74637f2ef3b71f16bc5e0e5d736bd7f0edff1ccbc5feab10583c93eb":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"76b4457e74637f2ef3b71f16bc5e0e5d736bd7f0edff1ccbc5feab10583c93eb":{code_panel:`<svg width="400px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -3212,7 +3212,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="200px" height="460px" 
+</svg>`,timeline_panel:`<svg width="200px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -3479,7 +3479,7 @@ fn main() {
 	</g>
     
 
-</svg>`},b937807312d4dfcc8029784a2c95502f7421ea8fdbfa19179878abec0100a88d:{code_panel:`<svg width="427px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},b937807312d4dfcc8029784a2c95502f7421ea8fdbfa19179878abec0100a88d:{code_panel:`<svg width="427px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -3650,7 +3650,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="200px" height="460px" 
+</svg>`,timeline_panel:`<svg width="200px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -3924,7 +3924,7 @@ fn main() {
 	</g>
     
 
-</svg>`},f83d8e05915d057f1855e7fd178c895df79a93b8b51191ce0cfb8197a47e1852:{code_panel:`<svg width="589px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},f83d8e05915d057f1855e7fd178c895df79a93b8b51191ce0cfb8197a47e1852:{code_panel:`<svg width="589px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -4095,7 +4095,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="230px" height="460px" 
+</svg>`,timeline_panel:`<svg width="230px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -4374,7 +4374,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"899b06399fccb35709c9813bef196c99234a18948fa0564df7c136caa25f3566":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"899b06399fccb35709c9813bef196c99234a18948fa0564df7c136caa25f3566":{code_panel:`<svg width="400px" height="355px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -4544,7 +4544,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="200px" height="430px" 
+</svg>`,timeline_panel:`<svg width="200px" height="355px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -4815,7 +4815,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"87ba03cd139111012458f9fecacb911b542b7844a1377c1f8b33efab0e22d8bf":{code_panel:`<svg width="490px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"87ba03cd139111012458f9fecacb911b542b7844a1377c1f8b33efab0e22d8bf":{code_panel:`<svg width="490px" height="265px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -4982,7 +4982,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="310px" height="340px" 
+</svg>`,timeline_panel:`<svg width="310px" height="265px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -5284,7 +5284,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"13bc0977fd8a04719e82ab483a4b1603e063340757e2712ecb9442a86026ef8f":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"13bc0977fd8a04719e82ab483a4b1603e063340757e2712ecb9442a86026ef8f":{code_panel:`<svg width="400px" height="415px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -5456,7 +5456,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="350px" height="490px" 
+</svg>`,timeline_panel:`<svg width="350px" height="415px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -5777,7 +5777,7 @@ fn main() {
 	</g>
     
 
-</svg>`},d0d507f8053bb8e722e03833e1c1820d28459613140634d18bed70e55f4d6933:{code_panel:`<svg width="535px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},d0d507f8053bb8e722e03833e1c1820d28459613140634d18bed70e55f4d6933:{code_panel:`<svg width="535px" height="295px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -5945,7 +5945,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="370px" 
+</svg>`,timeline_panel:`<svg width="240px" height="295px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -6230,7 +6230,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"1ae159b182f77bd0c1e32c3d10fc7c41a85224a67a12c30294f529c7b61c8aee":{code_panel:`<svg width="841px" height="550px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"1ae159b182f77bd0c1e32c3d10fc7c41a85224a67a12c30294f529c7b61c8aee":{code_panel:`<svg width="841px" height="475px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -6404,7 +6404,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="350px" height="550px" 
+</svg>`,timeline_panel:`<svg width="350px" height="475px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -6711,7 +6711,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"1ab105959bb683e8c2e3a2ad79139ddfc4a40d0b244006c687df8922626b13b3":{code_panel:`<svg width="580px" height="580px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"1ab105959bb683e8c2e3a2ad79139ddfc4a40d0b244006c687df8922626b13b3":{code_panel:`<svg width="580px" height="505px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -6886,7 +6886,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="380px" height="580px" 
+</svg>`,timeline_panel:`<svg width="380px" height="505px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -7297,7 +7297,7 @@ fn main() {
 	</g>
     
 
-</svg>`},cd4ee8364af3ce1bc9a6bdb6c2becb4f579c581f773216aefa090462b9c05681:{code_panel:`<svg width="553px" height="820px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},cd4ee8364af3ce1bc9a6bdb6c2becb4f579c581f773216aefa090462b9c05681:{code_panel:`<svg width="553px" height="745px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -7480,7 +7480,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="310px" height="820px" 
+</svg>`,timeline_panel:`<svg width="310px" height="745px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -7789,7 +7789,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"7ea64b8b7d83041826dff18ca7f2b29e137059e574bce6f18dc1ce3f2d75bde0":{code_panel:`<svg width="616px" height="940px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"7ea64b8b7d83041826dff18ca7f2b29e137059e574bce6f18dc1ce3f2d75bde0":{code_panel:`<svg width="616px" height="865px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -7976,7 +7976,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="339px" height="940px" 
+</svg>`,timeline_panel:`<svg width="339px" height="865px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -8289,7 +8289,7 @@ fn main() {
 	</g>
     
 
-</svg>`},a0f18aea44e8b9d671dee679464e095edce847557ecbe525a8ff6053e339ce5a:{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a0f18aea44e8b9d671dee679464e095edce847557ecbe525a8ff6053e339ce5a:{code_panel:`<svg width="400px" height="415px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -8461,7 +8461,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="380px" height="490px" 
+</svg>`,timeline_panel:`<svg width="380px" height="415px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -8784,7 +8784,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"6448f432a46a39149428496d05a044bc7d248d6b7391d21cc68fe2a50325b67a":{code_panel:`<svg width="562px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"6448f432a46a39149428496d05a044bc7d248d6b7391d21cc68fe2a50325b67a":{code_panel:`<svg width="562px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -8955,7 +8955,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="380px" height="460px" 
+</svg>`,timeline_panel:`<svg width="380px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -9275,7 +9275,7 @@ fn main() {
 	</g>
     
 
-</svg>`},dbab1a8d2947d291da1d7c859a57247e2dc981c4024e778c69ffd0f78a47bc7d:{code_panel:`<svg width="643px" height="670px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},dbab1a8d2947d291da1d7c859a57247e2dc981c4024e778c69ffd0f78a47bc7d:{code_panel:`<svg width="643px" height="595px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -9453,7 +9453,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="425px" height="670px" 
+</svg>`,timeline_panel:`<svg width="425px" height="595px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -9775,7 +9775,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"35c469bd1b5efa059e7c20ab90c1968840fc52b9338e39268c28c6473033d439":{code_panel:`<svg width="400px" height="310px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"35c469bd1b5efa059e7c20ab90c1968840fc52b9338e39268c28c6473033d439":{code_panel:`<svg width="400px" height="235px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -9941,7 +9941,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="310px" 
+</svg>`,timeline_panel:`<svg width="240px" height="235px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -10194,7 +10194,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"90cf60170818febcde39e99890ef27007c05ddd74826129711ef11471b5b0fbe":{code_panel:`<svg width="436px" height="370px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"90cf60170818febcde39e99890ef27007c05ddd74826129711ef11471b5b0fbe":{code_panel:`<svg width="436px" height="295px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -10362,7 +10362,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="310px" height="370px" 
+</svg>`,timeline_panel:`<svg width="310px" height="295px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -10633,7 +10633,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"559a206557e0d4a1b2c7522ded865aaa6ca0ae729306a8f39b6b474c0e274d8d":{code_panel:`<svg width="400px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"559a206557e0d4a1b2c7522ded865aaa6ca0ae729306a8f39b6b474c0e274d8d":{code_panel:`<svg width="400px" height="265px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -10800,7 +10800,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="340px" 
+</svg>`,timeline_panel:`<svg width="240px" height="265px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -11078,7 +11078,7 @@ fn main() {
 	</g>
     
 
-</svg>`},c7a883286e02dae2f6f3c13b84897cbec9ec4785848281576ccb534fef1fad9b:{code_panel:`<svg width="400px" height="340px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},c7a883286e02dae2f6f3c13b84897cbec9ec4785848281576ccb534fef1fad9b:{code_panel:`<svg width="400px" height="265px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -11245,7 +11245,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="340px" 
+</svg>`,timeline_panel:`<svg width="240px" height="265px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -11502,7 +11502,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"50ee980894df53568300ff228a8d2ad3e11d64c8c48eaefbb07daecfe7be6b49":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"50ee980894df53568300ff228a8d2ad3e11d64c8c48eaefbb07daecfe7be6b49":{code_panel:`<svg width="400px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -11673,7 +11673,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="220px" height="460px" 
+</svg>`,timeline_panel:`<svg width="220px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -11950,7 +11950,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"2eae22dbfa99766d96a8e6777339baec925ab3bba28fdcef0e3edeaa5998c195":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"2eae22dbfa99766d96a8e6777339baec925ab3bba28fdcef0e3edeaa5998c195":{code_panel:`<svg width="400px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -12121,7 +12121,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="220px" height="460px" 
+</svg>`,timeline_panel:`<svg width="220px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -12391,7 +12391,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"5b107b9c6be3ed8478a7545831046c2af2494240e6de7e2bcdc36d569c13471f":{code_panel:`<svg width="400px" height="490px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"5b107b9c6be3ed8478a7545831046c2af2494240e6de7e2bcdc36d569c13471f":{code_panel:`<svg width="400px" height="415px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -12563,7 +12563,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="340px" height="490px" 
+</svg>`,timeline_panel:`<svg width="340px" height="415px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -12923,7 +12923,7 @@ fn main() {
 	</g>
     
 
-</svg>`},a2a038fcc949867ceee5fd7ce4fbd1a32bd6be252af8c1d6511083e762902956:{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a2a038fcc949867ceee5fd7ce4fbd1a32bd6be252af8c1d6511083e762902956:{code_panel:`<svg width="400px" height="355px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -13093,7 +13093,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="220px" height="430px" 
+</svg>`,timeline_panel:`<svg width="220px" height="355px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -13389,7 +13389,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"6b6a07c59d5625de0568d4ead92bd8f09ede94d60fc422de491faf59e158efb9":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"6b6a07c59d5625de0568d4ead92bd8f09ede94d60fc422de491faf59e158efb9":{code_panel:`<svg width="400px" height="355px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -13559,7 +13559,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="220px" height="430px" 
+</svg>`,timeline_panel:`<svg width="220px" height="355px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -13848,7 +13848,7 @@ fn main() {
 	</g>
     
 
-</svg>`},e36875efa6186841c9e6d8af38044d8c0b4318f80c7c457ca75c807b6608a1e7:{code_panel:`<svg width="400px" height="550px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},e36875efa6186841c9e6d8af38044d8c0b4318f80c7c457ca75c807b6608a1e7:{code_panel:`<svg width="400px" height="475px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -14022,7 +14022,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="220px" height="550px" 
+</svg>`,timeline_panel:`<svg width="220px" height="475px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -14320,7 +14320,7 @@ fn main() {
 	</g>
     
 
-</svg>`},dada44da1d917dd367abdf2f9ae62797187ddb50b14b277451357a5bae5e131b:{code_panel:`<svg width="400px" height="610px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},dada44da1d917dd367abdf2f9ae62797187ddb50b14b277451357a5bae5e131b:{code_panel:`<svg width="400px" height="535px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -14496,7 +14496,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="295px" height="610px" 
+</svg>`,timeline_panel:`<svg width="295px" height="535px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -14800,7 +14800,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"8e83121bb8e81686335bfc7d5a0a4694c07ec8298832861058f8a3a98f57f2b1":{code_panel:`<svg width="400px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"8e83121bb8e81686335bfc7d5a0a4694c07ec8298832861058f8a3a98f57f2b1":{code_panel:`<svg width="400px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -14971,7 +14971,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="270px" height="460px" 
+</svg>`,timeline_panel:`<svg width="270px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -15263,7 +15263,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"3a75fe088a4f213698023b12332915d14a1f1e3f6b2cd4dfb21930f560971735":{code_panel:`<svg width="589px" height="460px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"3a75fe088a4f213698023b12332915d14a1f1e3f6b2cd4dfb21930f560971735":{code_panel:`<svg width="589px" height="385px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -15434,7 +15434,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="260px" height="460px" 
+</svg>`,timeline_panel:`<svg width="260px" height="385px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -15715,7 +15715,7 @@ fn main() {
 	</g>
     
 
-</svg>`},c1b6ba4ba75642dddbebfdefddf127ad0414be2495db50e9f587d05db9727173:{code_panel:`<svg width="589px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},c1b6ba4ba75642dddbebfdefddf127ad0414be2495db50e9f587d05db9727173:{code_panel:`<svg width="589px" height="325px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -15884,7 +15884,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="370px" height="400px" 
+</svg>`,timeline_panel:`<svg width="370px" height="325px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -16160,7 +16160,7 @@ fn main() {
 	</g>
     
 
-</svg>`},a87ad15c0738dba45a3dc70b715c8ccc8bda12b0623b1eeb3fa4357e3f0eaf14:{code_panel:`<svg width="607px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a87ad15c0738dba45a3dc70b715c8ccc8bda12b0623b1eeb3fa4357e3f0eaf14:{code_panel:`<svg width="607px" height="325px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -16329,7 +16329,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="400px" 
+</svg>`,timeline_panel:`<svg width="240px" height="325px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -16593,7 +16593,7 @@ fn main() {
 	</g>
     
 
-</svg>`},a0bbe857d7508b2daadd5abd5b1624f168fb439a81b874171c4d6d5e316a6ef6:{code_panel:`<svg width="400px" height="400px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},a0bbe857d7508b2daadd5abd5b1624f168fb439a81b874171c4d6d5e316a6ef6:{code_panel:`<svg width="400px" height="325px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -16762,7 +16762,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="400px" 
+</svg>`,timeline_panel:`<svg width="240px" height="325px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -17027,7 +17027,7 @@ fn main() {
 	</g>
     
 
-</svg>`},"6ac5409df96ad748dc43cefb056b6fb023e682b0818954863d813e7d1304952e":{code_panel:`<svg width="400px" height="430px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+</svg>`},"6ac5409df96ad748dc43cefb056b6fb023e682b0818954863d813e7d1304952e":{code_panel:`<svg width="400px" height="355px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
     <desc>vis</desc>
 
@@ -17197,7 +17197,7 @@ fn main() {
     </g>
 
 
-</svg>`,timeline_panel:`<svg width="240px" height="430px" 
+</svg>`,timeline_panel:`<svg width="240px" height="355px" 
         xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
         id="tl_vis">
 
@@ -17463,4 +17463,4 @@ fn main() {
 
 }
 `;function _0(){try{const e=localStorage.getItem(Kw);if(!e)return[];const t=JSON.parse(e);return Array.isArray(t)?t.filter(n=>typeof(n==null?void 0:n.id)=="string"&&typeof(n==null?void 0:n.name)=="string"&&typeof(n==null?void 0:n.code)=="string"):[]}catch{return[]}}function eq(e){return Gw(Kw,JSON.stringify(e))}function nq(e){try{const t=localStorage.getItem(Jw);if(!t)return Mh;const n=JSON.parse(t);if((n==null?void 0:n.kind)==="preloaded"&&typeof n.chapter=="number"&&typeof n.index=="number"){const o=ga[n.chapter];if(o&&o.examples[n.index])return n}if((n==null?void 0:n.kind)==="user"&&typeof n.id=="string"&&e.some(o=>o.id===n.id))return n}catch{}return Mh}function oq(e){Gw(Jw,JSON.stringify(e))}function Cf(e,t){if(e.kind==="user"){const n=t.find(o=>o.id===e.id);return n?n.code:ga[0].examples[0].code}return ga[e.chapter].examples[e.index].code}function Pf(){return typeof crypto<"u"&&typeof crypto.randomUUID=="function"?crypto.randomUUID():Math.random().toString(36).slice(2,10)+Date.now().toString(36)}function sq(e){let t=0;for(const n of e){const o=/^New example (\d+)$/.exec(n.name);if(o){const s=parseInt(o[1],10);s>t&&(t=s)}}return`New example ${t+1}`}function aq(e,t){const n=new Set(t.map(s=>s.name)),o=`${e} (copy)`;if(!n.has(o))return o;for(let s=2;;s++){const a=`${e} (copy ${s})`;if(!n.has(a))return a}}function rq(e){return(e.replace(/[<>:"/\\|?*\x00-\x1f]+/g,"").replace(/\s+/g," ").replace(/^[\s.]+|[\s.]+$/g,"")||"example")+".rs"}function lq(e,t){const n=e.trim()||"Imported example",o=new Set(t.map(s=>s.name));if(!o.has(n))return n;for(let s=2;;s++){const a=`${n} (${s})`;if(!o.has(a))return a}}function qf(e){return e.kind==="user"?`user:${e.id}`:`preloaded:${e.chapter}:${e.index}`}function iq(e){if(e.startsWith("user:"))return{kind:"user",id:e.slice(5)};if(e.startsWith("preloaded:")){const[t,n]=e.slice(10).split(":").map(Number);if(!Number.isNaN(t)&&!Number.isNaN(n))return{kind:"preloaded",chapter:t,index:n}}return null}const cq="https://rustviz-api-816769776225.us-central1.run.app",uq=768,fq=typeof window<"u"&&typeof window.matchMedia=="function"&&window.matchMedia(`(max-width: ${uq}px)`).matches;class pq{constructor(t,n,o){hu(this,"view");hu(this,"programmatic",!1);const s=B.updateListener.of(r=>{r.docChanged&&(this.programmatic||o(r.state.doc.toString()))}),a=ct.create({doc:n,extensions:[...q8,s]});this.view=new B({state:a,parent:t})}getCurrentCode(){return this.view.state.doc.toString()}setCurrentCode(t){if(t!==this.view.state.doc.toString()){this.programmatic=!0;try{this.view.dispatch({changes:{from:0,to:this.view.state.doc.length,insert:t}})}finally{this.programmatic=!1}}}destroy(){this.view.destroy()}}const hq=()=>{const e=U.useRef(null);return U.useEffect(()=>{const t=n=>{var o;(o=e.current)!=null&&o.open&&!e.current.contains(n.target)&&(e.current.open=!1)};return document.addEventListener("mousedown",t),()=>document.removeEventListener("mousedown",t)},[]),b.jsxs("header",{className:"titlebar",children:[b.jsxs("div",{className:"titlebar-left",children:[b.jsxs("h1",{className:"titlebar-title",children:[b.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","Playground"]}),b.jsx("a",{className:"titlebar-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",title:"Open the RustViz tutorial in a new tab",children:"New to Rust? Read our visual tutorial →"})]}),b.jsxs("div",{className:"titlebar-meta",children:[b.jsxs("code",{className:"titlebar-version",children:["rustc ","nightly-2026-05-01"]}),b.jsxs("code",{className:"titlebar-version",children:["rustviz-plugin ","2.0.0"]}),b.jsxs("details",{ref:e,className:"titlebar-overflow",children:[b.jsx("summary",{className:"titlebar-overflow-trigger","aria-label":"More",title:"More",children:"⋯"}),b.jsxs("div",{className:"titlebar-overflow-popover",role:"menu",children:[b.jsx("a",{className:"titlebar-overflow-item titlebar-overflow-callout",href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",role:"menuitem",children:"Read our visual tutorial →"}),b.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustc ","nightly-2026-05-01"]}),b.jsxs("div",{className:"titlebar-overflow-item titlebar-overflow-static titlebar-overflow-version",role:"none",children:["rustviz-plugin ","2.0.0"]})]})]}),b.jsx("a",{className:"titlebar-stars",href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",title:"Star us on GitHub",children:b.jsx("img",{src:"https://img.shields.io/github/stars/rustviz/rustviz?style=social&label=Star",alt:"GitHub stars",height:20})})]})]})},dq=()=>b.jsxs("div",{className:"description",children:[b.jsxs("p",{children:["Welcome!"," ",b.jsx("a",{href:"https://github.com/rustviz/rustviz/",target:"_blank",rel:"noreferrer",children:"RustViz"})," ","is a tool to visualize an approximation of the compile-time reasoning of"," ",b.jsx("a",{href:"https://www.rust-lang.org/",target:"_blank",rel:"noreferrer",children:"Rust's"})," ","borrow checker."]}),b.jsxs("p",{children:["Try it out by writing a Rust program in the editor on the right, then clicking the ",b.jsx("strong",{children:"Generate Visualization"})," button. The diagram appears in the bottom panel."]}),b.jsx("h3",{children:"Annotation markers"}),b.jsx("p",{children:"You can keep individual items out of the visualization with comment markers:"}),b.jsxs("ul",{children:[b.jsxs("li",{children:[b.jsx("code",{children:"// rustviz: skip"})," on a ",b.jsx("code",{children:"let"})," or ",b.jsx("code",{children:"fn"})," line — the item stays in the source but is omitted from the trace."]}),b.jsxs("li",{children:[b.jsx("code",{children:"// rustviz: hide"})," on a ",b.jsx("code",{children:"fn"}),", ",b.jsx("code",{children:"struct"}),","," ",b.jsx("code",{children:"enum"}),", ",b.jsx("code",{children:"impl"}),", ",b.jsx("code",{children:"trait"})," or ",b.jsx("code",{children:"use"})," ","line (the line the item starts on) — removes the entire item from the rendered code panel; call sites still draw their arrows."]})]}),b.jsx("h3",{children:"Known limitations"}),b.jsx("p",{children:`RustViz is a research tool. It only visualizes programs that compile (code with a borrow-checker error is rejected with rustc's message), and it handles a subset of Rust. When your program compiles but uses something RustViz can't handle, you'll see "RustViz can't visualize this program yet" with a link to report it. In particular:`}),b.jsxs("p",{children:[b.jsx("strong",{children:"Some of what's drawn is wrong"}),", so don't rely on it for:"]}),b.jsx("ul",{children:b.jsxs("li",{children:[b.jsx("code",{children:"Rc"}),"/",b.jsx("code",{children:"Arc"})," reference counts aren't tracked: each clone is drawn as its own owner, and its drop says only that it lowers the count (which clone frees the value isn't shown)."]})}),b.jsxs("p",{children:[b.jsx("strong",{children:"Some valid programs crash the visualizer"}),` (you'll see "RustViz can't visualize this program yet"). We track the ones we know about as`," ",b.jsxs("a",{href:"https://github.com/rustviz/rustviz/issues?q=is%3Aissue+is%3Aopen+label%3Acrash",target:"_blank",rel:"noreferrer",children:["issues labelled ",b.jsx("code",{children:"crash"})]}),"."]}),b.jsx("p",{children:b.jsx("strong",{children:"Simplified or not shown:"})}),b.jsxs("ul",{children:[b.jsxs("li",{children:["Loops show one iteration (a ",b.jsx("code",{children:"for"})," loop's variable is drawn from the ",b.jsx("code",{children:"for"})," line to the body's closing brace, or to the ",b.jsx("code",{children:"break"}),"/",b.jsx("code",{children:"continue"})," every path leaves by); closures show their captures but not their bodies (for a closure passed straight to a function, what it moves or copies in, and what it borrows, until the call returns or, if the call's result keeps the closure (",b.jsx("code",{children:"let g = keep(|| s.len());"}),"), until that result's last use; calling a once-only closure says what happens to what it captured, not the body's steps); in a method chain only the first call is drawn on the variable (later calls work on temporary results); a match guard's events appear only in its own arm, and an ",b.jsx("code",{children:"if let"})," chain's (after its first part, except copies out of a variable) only in the"," ",b.jsx("code",{children:"if"})," branch, apart from its moves, which the"," ",b.jsx("code",{children:"else"}),' branch starts with as "may have been moved";'," ",b.jsx("code",{children:"async"}),"/",b.jsx("code",{children:"await"})," aren't visualized."]}),b.jsxs("li",{children:["Your own ",b.jsx("code",{children:"macro_rules!"})," macros that use a variable aren't visualized yet: the program is refused rather than drawn wrongly. A macro that only forwards a variable to ",b.jsx("code",{children:"println!"})," and friends is shown as that read."]}),b.jsxs("li",{children:["An or-pattern that binds one name from different places (",b.jsx("code",{children:"(x, _) | (_, x)"}),", in a ",b.jsx("code",{children:"match"})," arm,"," ",b.jsx("code",{children:"if let"}),", ",b.jsx("code",{children:"while let"})," or ",b.jsx("code",{children:"let"}),") draws the name as a new value with no arrow, and each place it may move from as maybe-moved (in ",b.jsx("code",{children:"match (a, b)"}),", what the name didn't take is dropped with the tuple). In a ",b.jsx("code",{children:"match"})," arm, a reference (",b.jsx("code",{children:"(ref x, _) | (_, ref x)"}),") draws each place as borrowed until the reference's last use; in an"," ",b.jsx("code",{children:"if let"})," or ",b.jsx("code",{children:"let"}),", a reference or a tuple or struct name is refused rather than drawn. A few other shapes are refused, such as matching on two reference variables. Nested inside another pattern (",b.jsx("code",{children:"(a, (x, _) | (_, x))"}),") it is drawn the same way, except on the parts of a tuple variable that a"," ",b.jsx("code",{children:"let"}),"'s tuple moves into a temporary (",b.jsx("code",{children:"let (p, (x, _) | (_, x)) = (s, u)"}),"), which is refused."]}),b.jsxs("li",{children:["A ",b.jsx("code",{children:"for"})," loop drops its iterator where the loop is left. A"," ",b.jsx("code",{children:"break 'outer"})," or ",b.jsx("code",{children:"continue 'outer"})," out of an inner loop is drawn only in an ",b.jsx("code",{children:"if"}),"/",b.jsx("code",{children:"else"})," ","branch, not in an ",b.jsx("code",{children:"if"})," without ",b.jsx("code",{children:"else"}),"."]}),b.jsxs("li",{children:["Values dropped by a ",b.jsx("code",{children:"return"}),", a ",b.jsx("code",{children:"panic!()"})," or a"," ",b.jsx("code",{children:"break"}),"/",b.jsx("code",{children:"continue"})," are drawn when it's in an"," ",b.jsx("code",{children:"if"})," branch (with or without an ",b.jsx("code",{children:"else"}),") or a"," ",b.jsx("code",{children:"match"})," arm. The ",b.jsx("code",{children:"?"})," operator's early return is drawn as a dot on each owner at the ",b.jsx("code",{children:"?"}),": the value is dropped only if it returns early."]}),b.jsxs("li",{children:["A write to a field through a reference (",b.jsx("code",{children:"self.n += 1"})," in a"," ",b.jsx("code",{children:"&mut self"})," method) is drawn on the reference's column. For a local ",b.jsx("code",{children:"let r = &mut s;"})," outside"," ",b.jsx("code",{children:"if"}),"/",b.jsx("code",{children:"match"}),", the field value it replaces is also shown dropped on ",b.jsx("code",{children:"s"}),"'s own field column. A write to a tuple field (",b.jsx("code",{children:"t.0 = x"}),") or a method result's field is drawn on the column of the variable it is reached from; the old value's drop is stated in the tooltip only. A write to an element (",b.jsx("code",{children:"v[i] = x"}),") is drawn on ",b.jsx("code",{children:"v"}),"'s column, unless the element is a reference: ",b.jsx("code",{children:"v[i] = &s"})," (or"," ",b.jsx("code",{children:"h.r = &s"})," through a reference, or a call that may store ",b.jsx("code",{children:"&s"}),", like"," ",b.jsx("code",{children:"point(&mut hold, &s)"}),") is drawn only as a borrow on ",b.jsx("code",{children:"s"}),"'s column. A copy out of an element"," ","(",b.jsx("code",{children:"let first = v[0];"}),") is drawn on ",b.jsx("code",{children:"v"}),"'s column too. The element value a write replaces is dropped only in the tooltip's words, not on a column. So is a write through a reference stored in an element (",b.jsx("code",{children:"*slots[0] += 10"}),"), without showing which variable it changes; a read through one (",b.jsx("code",{children:"let n = *slots[0];"}),") is an arrow out of",b.jsx("code",{children:"slots"}),"'s column, likewise without naming the variable. Reads and mutable borrows of a field through a reference (",b.jsx("code",{children:"let a = p.x;"}),", ",b.jsx("code",{children:"&mut r.a"}),") are drawn on the reference's column."]}),b.jsxs("li",{children:["A borrow that a struct field write keeps alive until the struct's last use (",b.jsx("code",{children:"o.inner.r = &t;"}),","," ",b.jsx("code",{children:"o.inner = other;"}),") is drawn ending on the lender's arm column below the join when the write is inside an ",b.jsx("code",{children:"if"})," /"," ",b.jsx("code",{children:"match"})," arm."]}),b.jsxs("li",{children:["When a reference is reassigned in one branch only (",b.jsxs("code",{children:["if c ","{"," r = &y; ","}"]}),") and read after the"," ",b.jsx("code",{children:"if"}),", the old lender is drawn borrowed until that read, as on the path that skips the branch. A write to the lender inside the branch (",b.jsx("code",{children:"x += 1;"}),", which compiles there) is drawn inside the borrowed span."]}),b.jsxs("li",{children:["Smart pointers (",b.jsx("code",{children:"Box"}),", ",b.jsx("code",{children:"Rc"}),", ",b.jsx("code",{children:"RefCell"}),") and unions are drawn as a single owner (except a ",b.jsx("code",{children:"Box"})," of a struct that a field is moved out of, as in ",b.jsx("code",{children:"take(b.name)"}),", which gets a column per field); a write through"," ",b.jsx("code",{children:"*cell.borrow_mut()"})," shows only the call, not the write."]}),b.jsxs("li",{children:["A temporary borrowed by a ",b.jsx("code",{children:"let"})," (",b.jsx("code",{children:'let r = &String::from("a");'}),") gets a"," ",b.jsx("code",{children:"(temporary)"})," column that lives to the end of the block. A value that nothing binds or moves on (a call's result:"," ",b.jsx("code",{children:"make();"}),", ",b.jsx("code",{children:"make().len()"}),","," ",b.jsx("code",{children:"f(&make())"}),"; ",b.jsx("code",{children:"vec![..];"}),"; a struct, tuple or array literal; a ",b.jsx("code",{children:"match"})," / ",b.jsx("code",{children:"if let"})," /"," ",b.jsx("code",{children:"while let"})," scrutinee; the iterator a ",b.jsx("code",{children:"for"})," loop makes from its head; a temporary a field is moved out of,"," ",b.jsx("code",{children:"make().name"}),") gets a short ",b.jsx("code",{children:"(temporary)"})," column too (numbered together), and so does the literal in"," ",b.jsx("code",{children:"let (ref a, ..) = (s, t);"}),", which ",b.jsx("code",{children:"s"})," and"," ",b.jsx("code",{children:"t"})," are moved into (only variables are drawn moving in), a ",b.jsx("code",{children:"ref"})," binding of a value (",b.jsx("code",{children:'let ref t = String::from("a");'}),") borrows one, and so does a literal of only fresh values (",b.jsx("code",{children:"let (ref a, _) = (make(), make());"}),"). The bindings of a scrutinee's pattern are drawn from the call, not from that column. A ",b.jsx("code",{children:"let"}),"-",b.jsx("code",{children:"else"})," scrutinee, a struct update's base (",b.jsx("code",{children:"..make()"}),") and a temporary whose field is matched on (",b.jsx("code",{children:"match make().name"}),") get one too, as does a let chain's scrutinee, and so does a call's result that a ",b.jsx("code",{children:"let"})," pattern takes apart (",b.jsx("code",{children:"let (a, _) = make();"}),", ",b.jsx("code",{children:"(m, _) = make();"}),"). A variable moved into a"," ",b.jsx("code",{children:"vec![..]"})," or literal that nothing binds (",b.jsx("code",{children:"vec![s];"}),", or by struct update, ",b.jsxs("code",{children:["P ","{"," n: 1, ..p ","}",";"]}),") is drawn moving into the temporary. Where a tuple of variables matched by ",b.jsx("code",{children:"if let"})," or"," ",b.jsx("code",{children:"match"})," (",b.jsx("code",{children:"(x, y)"}),") is dropped is stated on"," ",b.jsx("code",{children:"x"}),"'s and ",b.jsx("code",{children:"y"}),"'s columns (not when a"," ",b.jsx("code",{children:"?"})," leaves early)."]})]}),b.jsxs("p",{children:["If you find an example that exposes a bug, please open an issue on the"," ",b.jsx("a",{href:"https://github.com/rustviz/rustviz/issues",target:"_blank",rel:"noreferrer",children:"repo"})," ","with the snippet and error message."]}),b.jsx("h3",{children:"Presentation mode"}),b.jsx("p",{children:"The three panels are independently resizable, so you can stage a clean presentation view by:"}),b.jsxs("ul",{children:[b.jsx("li",{children:"Dragging the vertical handle to the left edge to hide this info panel."}),b.jsx("li",{children:"Dragging the horizontal handle up to hide the editor entirely, or most of the way up to leave just the example-picker toolbar visible for switching snippets live."})]}),b.jsx("h3",{children:"Other ways to use RustViz"}),b.jsx("p",{children:"Besides this playground, RustViz ships as:"}),b.jsxs("ul",{children:[b.jsxs("li",{children:["an mdBook preprocessor (",b.jsxs("a",{href:"https://github.com/rustviz/rustviz/tree/main/mdbook-rustviz",target:"_blank",rel:"noreferrer",children:[b.jsx("code",{children:"mdbook-rustviz"})," docs"]}),") — for embedding visualizations in a book, like our"," ",b.jsx("a",{href:"https://rustviz.github.io/tutorial/",target:"_blank",rel:"noreferrer",children:"visual Rust tutorial"})," ","(",b.jsx("a",{href:"https://github.com/rustviz/tutorial",target:"_blank",rel:"noreferrer",children:"source"}),")"]}),b.jsxs("li",{children:["a ",b.jsx("code",{children:"rustviz"})," command-line tool — one-shot rendering of a ",b.jsx("code",{children:".rs"})," file to SVG or self-contained HTML"]}),b.jsx("li",{children:"a Rust library — for programmatic use"})]}),b.jsxs("p",{children:["Setup and usage for all of them are in the"," ",b.jsx("a",{href:"https://github.com/rustviz/rustviz",target:"_blank",rel:"noreferrer",children:"GitHub repo"}),"."]}),b.jsx("h3",{children:"Credits"}),b.jsxs("p",{children:["RustViz is a project of the"," ",b.jsx("a",{href:"https://web.eecs.umich.edu/~comar/",target:"_blank",rel:"noreferrer",children:"Future of Programming Lab"})," ","at the University of Michigan. The plugin is built on"," ",b.jsxs("a",{href:"https://github.com/cognitive-engineering-lab/rustc_plugin",target:"_blank",rel:"noreferrer",children:[b.jsx("code",{children:"rustc_plugin"})," / ",b.jsx("code",{children:"rustc_utils"})]})," ","by"," ",b.jsx("a",{href:"https://willcrichton.net/",target:"_blank",rel:"noreferrer",children:"Will Crichton"}),", and ports several MIR / borrow-fact helpers from"," ",b.jsx("a",{href:"https://github.com/cognitive-engineering-lab/aquascope",target:"_blank",rel:"noreferrer",children:"Aquascope"})," ","(another visualization tool for Rust) by"," ",b.jsx("a",{href:"https://gavinleroy.com/",target:"_blank",rel:"noreferrer",children:"Gavin Gray"}),". RustViz is an independent academic project and has no formal affiliation with the Rust project or the Rust Foundation."]}),b.jsxs("p",{children:["RustViz is led by Cyrus Omar. RustViz 2, which compiles real Rust programs through ",b.jsx("code",{children:"rustc"}),", was built by Andrew Mahler, with early contributions from Yifan Liu, Zesen (SenmiaoORZ), Arnav Shah, Chenglin Li, and Yue Huang. Later contributors include Marcelo Almeida, Vishnu Reddy, Yu Pan, and Jay Soh. The authors of the original RustViz paper are listed below."]}),b.jsx("h3",{children:"Research paper"}),b.jsx("p",{children:"An earlier version of RustViz used hand-written visualization directives in source comments and was deployed in classroom teaching at the University of Michigan. That version is described in our VL/HCC 2022 paper:"}),b.jsxs("p",{className:"citation",children:["Marcelo Almeida, Grant Cole, Ke Du, Gongming Luo, Shulin Pan, Yu Pan, Kai Qiu, Vishnu Reddy, Haochen Zhang, Yingying Zhu, and Cyrus Omar."," ",b.jsx("a",{href:"https://web.eecs.umich.edu/~comar/rustviz-vlhcc22.pdf",target:"_blank",rel:"noreferrer",children:"RustViz: Interactively Visualizing Ownership and Borrowing"}),". In ",b.jsx("em",{children:"2022 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)"}),", pages 1–10, 2022."," ",b.jsx("a",{href:"https://github.com/rustviz/rustviz/blob/main/rustviz.bib",target:"_blank",rel:"noreferrer",children:"BibTeX"}),"."]})]}),gq=({selection:e,userExamples:t,onSelect:n})=>{const o=s=>{const a=iq(s.target.value);a&&n(a)};return b.jsxs("div",{className:"example-picker",children:[b.jsx("label",{htmlFor:"example-select",children:"Example:"}),b.jsxs("select",{id:"example-select",value:qf(e),onChange:o,children:[t.length>0&&b.jsx("optgroup",{label:"Your examples",children:t.map(s=>b.jsx("option",{value:qf({kind:"user",id:s.id}),children:s.name},s.id))}),ga.map((s,a)=>b.jsx("optgroup",{label:s.chapter,children:s.examples.map((r,l)=>b.jsx("option",{value:qf({kind:"preloaded",chapter:a,index:l}),children:r.name},r.name))},s.chapter))]})]})},mq=()=>{const[e,t]=U.useState(!1),[n,o]=U.useState(!1),[s,a]=U.useState(null),[r,l]=U.useState(null),[i,c]=U.useState(""),[u,f]=U.useState(null),[p,h]=U.useState(null),[d,m]=U.useState(null),[x,g]=U.useState(()=>_0()),[y,w]=U.useState(()=>nq(_0())),O=U.useRef(y),M=U.useRef(x);U.useEffect(()=>{O.current=y},[y]),U.useEffect(()=>{M.current=x},[x]);const[k,S]=U.useState(!1),[q,X]=U.useState(!1);U.useEffect(()=>{const D=eq(x);S(!D),D&&X(!1)},[x]),U.useEffect(()=>{oq(y)},[y]);const T=D=>{const _=O.current,$=M.current;if(_.kind==="user"){const et=$.map(pt=>pt.id===_.id?{...pt,code:D}:pt);g(et);return}const Q=ga[_.chapter].examples[_.index].name,F={id:Pf(),name:aq(Q,$),code:D};g([...$,F]),w({kind:"user",id:F.id})},E=U.useRef(null);U.useEffect(()=>{if(!E.current)return;const D=Cf(y,x),_=new pq(E.current,D,T);return f(_),()=>{_.destroy(),f(null)}},[]);const V=U.useRef(null),G=async()=>{var Q,F;if(!u)return;(Q=V.current)==null||Q.abort();const D=new AbortController;V.current=D;const _=tq(u.getCurrentCode()),$=await KP(_);if($){if(V.current!==D)return;h($.code_panel),m($.timeline_panel),o(!1),t(!1);return}t(!0);try{const et=await vt.post(`${cq}/submit-code`,{code:_},{signal:D.signal});if(V.current!==D)return;et.status===200?(h(et.data.code_panel),m(et.data.timeline_panel),o(!1),JP(_,{code_panel:et.data.code_panel,timeline_panel:et.data.timeline_panel})):(console.error("Error:",et.statusText),a(String(et.data)),l(null),c(_),o(!0))}catch(et){if(vt.isCancel(et)||D.signal.aborted||V.current!==D)return;if(vt.isAxiosError(et)&&et.response){const pt=et.response.data;a(typeof pt=="string"?pt:JSON.stringify(pt));const qe=(F=et.response.headers)==null?void 0:F["x-rustviz-error-kind"];l(typeof qe=="string"?qe:null)}else a("An unexpected error occurred"),l(null);c(_),console.error("An error occurred:",et),o(!0)}finally{V.current===D&&t(!1)}};U.useEffect(()=>{G()},[u]),U.useEffect(()=>{helpers("ex2")},[p,d]);const Y=D=>{w(D),u&&(u.setCurrentCode(Cf(D,x)),G())},K=()=>{const D={id:Pf(),name:sq(x),code:$0};g([...x,D]),w({kind:"user",id:D.id}),u&&(u.setCurrentCode($0),G())},J=()=>{if(y.kind!=="user")return;const D=x.find(Q=>Q.id===y.id);if(!D)return;const _=window.prompt("Rename example:",D.name);if(_===null)return;const $=_.trim();!$||$===D.name||g(x.map(Q=>Q.id===D.id?{...Q,name:$}:Q))},dt=()=>{if(y.kind!=="user")return;const D=x.findIndex(F=>F.id===y.id);if(D<0)return;const _=x[D];if(!window.confirm(`Delete "${_.name}"? This can't be undone.`))return;const $=x.filter(F=>F.id!==_.id);let Q;if($.length>0){const F=Math.min(D,$.length-1);Q={kind:"user",id:$[F].id}}else Q=Mh;g($),w(Q),u&&(u.setCurrentCode(Cf(Q,$)),G())},A=()=>{var et;if(!u)return;const D=u.getCurrentCode(),_=y.kind==="user"?((et=x.find(pt=>pt.id===y.id))==null?void 0:et.name)??"example":ga[y.chapter].examples[y.index].name,$=new Blob([D],{type:"text/x-rust"}),Q=URL.createObjectURL($),F=document.createElement("a");F.href=Q,F.download=rq(_),document.body.appendChild(F),F.click(),F.remove(),setTimeout(()=>URL.revokeObjectURL(Q),0)},W=U.useRef(null),Z=()=>{var D;(D=W.current)==null||D.click()},H=async D=>{var et;const _=(et=D.target.files)==null?void 0:et[0];if(D.target.value="",!_)return;const $=await _.text(),Q=_.name.replace(/\.rs$/i,""),F={id:Pf(),name:lq(Q,x),code:$};g([...x,F]),w({kind:"user",id:F.id}),u&&(u.setCurrentCode($),G())},nt=y.kind==="user",z=y.kind==="user";return b.jsxs("div",{className:"app-shell",children:[b.jsx(hq,{}),b.jsxs(wh,{direction:"vertical",className:"main-split",autoSaveId:"rustviz-vertical",children:[b.jsx(Ba,{defaultSize:40,minSize:0,children:b.jsxs(wh,{direction:"horizontal",autoSaveId:"rustviz-top-horizontal",children:[b.jsx(Ba,{defaultSize:fq?0:35,minSize:15,collapsible:!0,className:"panel description-panel",children:b.jsx(dq,{})}),b.jsx(Oh,{className:"resize-handle resize-handle-vertical"}),b.jsxs(Ba,{defaultSize:65,minSize:25,className:"panel editor-panel",children:[b.jsxs("div",{className:"editor-toolbar",children:[b.jsx(gq,{selection:y,userExamples:x,onSelect:Y}),b.jsx("button",{className:"cm-button toolbar-icon-button",onClick:K,title:"Create a new example (saved in this browser)","aria-label":"Create a new example",children:"+"}),b.jsx("button",{className:"cm-button toolbar-icon-button",onClick:J,disabled:!nt,title:nt?"Rename this example":"Rename only works on examples you created","aria-label":"Rename this example",children:"✎"}),b.jsx("button",{className:"cm-button toolbar-icon-button",onClick:dt,disabled:!z,title:z?"Delete this example":"Delete only works on examples you created","aria-label":"Delete this example",children:b.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[b.jsx("polyline",{fill:"none",points:"3 6 5 6 21 6"}),b.jsx("path",{fill:"none",d:"M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"}),b.jsx("path",{fill:"none",d:"M10 11v6"}),b.jsx("path",{fill:"none",d:"M14 11v6"}),b.jsx("path",{fill:"none",d:"M9 6V4a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2"})]})}),b.jsx("button",{className:"cm-button toolbar-icon-button",onClick:A,title:"Save current example as a .rs file","aria-label":"Save current example as a .rs file",children:b.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[b.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),b.jsx("polyline",{fill:"none",points:"7 10 12 15 17 10"}),b.jsx("line",{fill:"none",x1:"12",y1:"15",x2:"12",y2:"3"})]})}),b.jsx("button",{className:"cm-button toolbar-icon-button",onClick:Z,title:"Load a .rs file as a new example","aria-label":"Load a .rs file as a new example",children:b.jsxs("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"none","aria-hidden":"true",children:[b.jsx("path",{fill:"none",d:"M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"}),b.jsx("polyline",{fill:"none",points:"17 8 12 3 7 8"}),b.jsx("line",{fill:"none",x1:"12",y1:"3",x2:"12",y2:"15"})]})}),b.jsx("input",{ref:W,type:"file",accept:".rs,text/x-rust,text/plain",style:{display:"none"},onChange:H}),b.jsx("button",{className:"cm-button generate-button",onClick:G,disabled:e,children:e?b.jsxs(b.Fragment,{children:["Generating",b.jsx("span",{className:"ellipsis"})]}):"Generate Visualization"})]}),k&&!q&&b.jsxs("div",{className:"storage-warning",role:"alert",children:[b.jsx("span",{children:"Your edits aren't being saved: this browser's storage for this site is full or disabled, so they will be lost when you reload. Use the download button to save a copy."}),b.jsx("button",{className:"storage-warning-dismiss",onClick:()=>X(!0),"aria-label":"Dismiss warning",title:"Dismiss",children:"×"})]}),b.jsx("div",{className:"editor-host",ref:E})]})]})}),b.jsx(Oh,{className:"resize-handle resize-handle-horizontal"}),b.jsxs(Ba,{defaultSize:60,minSize:15,className:"panel viz-panel",children:[e&&b.jsxs("div",{className:"loading-status",children:[b.jsxs("p",{className:"loading-message",children:["Generating visualization",b.jsx("span",{className:"ellipsis"})]}),b.jsx("p",{className:"loading-note",children:"Dropdown examples and snippets you've rendered before are cached client-side and load instantly. This wait is only for novel code: the first compile after a quiet period takes a few extra seconds while the compile server wakes up; subsequent compiles are fast."})]}),n&&s?b.jsx(EP,{err_string:s,kind:r,code:i}):b.jsx("div",{className:"viz-content",children:b.jsxs("div",{className:"flex-container vis_block",children:[b.jsx("div",{className:"ex2 code_panel",dangerouslySetInnerHTML:{__html:p??""}}),b.jsx("div",{className:"ex2 tl_panel",style:{width:"auto"},dangerouslySetInnerHTML:{__html:d??""}})]})})]})]})]})},yq=Df.createRoot(document.getElementById("root"));yq.render(b.jsx(Z0.StrictMode,{children:b.jsx(mq,{})}));
-//# sourceMappingURL=index-Da0tVqm4.js.map
+//# sourceMappingURL=index-WotBiDfb.js.map
